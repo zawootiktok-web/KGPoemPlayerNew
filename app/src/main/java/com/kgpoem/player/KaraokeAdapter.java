@@ -42,6 +42,8 @@ public final class KaraokeAdapter extends RecyclerView.Adapter<KaraokeAdapter.Ho
         holder.itemView.setBackgroundResource(
                 active ? R.drawable.bg_lyric_active : R.drawable.bg_lyric_idle
         );
+        holder.itemView.setElevation(active ? 8f : 0f);
+        holder.text.setTextSize(android.util.TypedValue.COMPLEX_UNIT_SP, active ? 22f : 19f);
     }
 
     @Override

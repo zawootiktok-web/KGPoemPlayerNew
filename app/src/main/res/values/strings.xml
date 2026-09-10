@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">KG တေးကဗျာ</string>
+    <string name="welcome_kids">မင်္ဂလာပါ ကလေးတို့ရေ 🎵</string>
+    <string name="open_karaoke_short">🎤 Karaoke</string>
     <string name="library_subtitle">ကလေးတို့အတွက် တေးသီချင်းနှင့် ကဗျာ ၆၃ ပုဒ်</string>
     <string name="search_hint">တေးကဗျာအမည် သို့မဟုတ် အမှတ် ရှာရန်</string>
     <string name="poem_count">တေးကဗျာ %1$d ပုဒ်</string>
@@ -23,6 +25,7 @@
     <string name="karaoke_title_format">%1$02d • %2$s</string>
     <string name="full_lyrics_hint">စာသားအားလုံးကို ပြသထားပြီး လက်ရှိဆိုရမည့်စာကြောင်းကို အရောင်ပြောင်းပေးပါမည်</string>
     <string name="auto_next_karaoke">တစ်ပုဒ်ပြီးလျှင် နောက်တစ်ပုဒ်ကို အလိုအလျောက်ဆက်ဆိုမည်</string>
+    <string name="auto_next_short">ဆက်ဆိုမည်</string>
     <string name="start_singing">▶ စဆိုမယ်</string>
     <string name="pause_singing">Ⅱ ခဏရပ်မယ်</string>
     <string name="continue_singing">▶ ဆက်ဆိုမယ်</string>

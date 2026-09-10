@@ -162,6 +162,13 @@ public final class MainActivity extends AppCompatActivity implements PoemAdapter
             favoritesButton.setText(favoritesOnly
                     ? R.string.show_all
                     : R.string.show_favorites);
+            favoritesButton.setBackgroundResource(favoritesOnly
+                    ? R.drawable.bg_filter_chip_active
+                    : R.drawable.bg_filter_chip_idle);
+            favoritesButton.setTextColor(ContextCompat.getColor(
+                    this,
+                    favoritesOnly ? R.color.white : R.color.ink
+            ));
         }
     }
 
@@ -179,8 +186,8 @@ public final class MainActivity extends AppCompatActivity implements PoemAdapter
         miniPlayer.setVisibility(View.VISIBLE);
         miniTitle.setText(poem.title);
         miniPlay.setImageResource(playing
-                ? android.R.drawable.ic_media_pause
-                : android.R.drawable.ic_media_play);
+                ? R.drawable.ic_pause
+                : R.drawable.ic_play_arrow);
         miniPlay.setContentDescription(getString(playing ? R.string.pause : R.string.play));
         dancingToy.setDancing(playing);
     }

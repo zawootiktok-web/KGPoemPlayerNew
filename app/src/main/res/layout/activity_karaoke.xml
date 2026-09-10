@@ -1,141 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/purple"
+    android:background="@drawable/bg_karaoke_gradient"
     android:orientation="vertical"
     android:paddingStart="16dp"
     android:paddingTop="14dp"
     android:paddingEnd="16dp"
     android:paddingBottom="16dp">
 
+    <!-- Top Action Bar -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_vertical"
         android:orientation="horizontal">
 
-        <Button
+        <ImageButton
             android:id="@+id/back"
-            android:layout_width="wrap_content"
-            android:layout_height="44dp"
-            android:backgroundTint="@color/white"
-            android:minHeight="0dp"
-            android:text="@string/back"
-            android:textAllCaps="false"
-            android:textColor="@color/purple" />
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:background="@drawable/bg_circle_glass"
+            android:contentDescription="@string/back"
+            android:padding="11dp"
+            android:src="@drawable/ic_arrow_back"
+            app:tint="@color/white" />
 
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="12dp"
+            android:layout_marginStart="14dp"
             android:layout_weight="1"
-            android:gravity="end"
             android:text="@string/karaoke_heading"
             android:textColor="@color/white"
-            android:textSize="22sp"
+            android:textSize="20sp"
             android:textStyle="bold" />
+
+        <CheckBox
+            android:id="@+id/karaokeAutoNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/yellow"
+            android:checked="true"
+            android:text="@string/auto_next_short"
+            android:textColor="@color/lavender_text"
+            android:textSize="12sp" />
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/karaokeTitle"
+    <!-- Song Header Card -->
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="14dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/bg_lyric_idle"
         android:gravity="center"
-        android:textColor="@color/white"
-        android:textSize="19sp"
-        android:textStyle="bold" />
+        android:orientation="vertical"
+        android:paddingStart="16dp"
+        android:paddingTop="12dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="12dp">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="4dp"
-        android:gravity="center"
-        android:text="@string/full_lyrics_hint"
-        android:textColor="@color/lavender_text"
-        android:textSize="12sp" />
+        <TextView
+            android:id="@+id/karaokeTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/full_lyrics_hint"
+            android:textColor="@color/lavender_text"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <!-- Lyrics RecyclerView -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/lyricsList"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="10dp"
         android:layout_weight="1"
         android:clipToPadding="false"
-        android:paddingTop="4dp"
-        android:paddingBottom="4dp" />
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp" />
 
-    <CheckBox
-        android:id="@+id/karaokeAutoNext"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:buttonTint="@color/yellow"
-        android:checked="true"
-        android:text="@string/auto_next_karaoke"
-        android:textColor="@color/white"
-        android:textSize="13sp" />
-
-    <SeekBar
-        android:id="@+id/karaokeSeek"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:progressTint="@color/yellow"
-        android:thumbTint="@color/yellow" />
-
-    <TextView
-        android:id="@+id/karaokeProgress"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="@string/initial_progress"
-        android:textColor="@color/lavender_text"
-        android:textSize="13sp" />
-
+    <!-- Playback Scrubber & Timer -->
     <LinearLayout
-        style="?android:attr/buttonBarStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:gravity="center"
+        android:orientation="vertical">
+
+        <SeekBar
+            android:id="@+id/karaokeSeek"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxHeight="6dp"
+            android:minHeight="6dp"
+            android:paddingStart="4dp"
+            android:paddingEnd="4dp"
+            android:progressTint="@color/yellow"
+            android:thumbTint="@color/yellow" />
+
+        <TextView
+            android:id="@+id/karaokeProgress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:gravity="center"
+            android:text="@string/initial_progress"
+            android:textColor="@color/lavender_text"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <!-- Bottom Playback Action Controls -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical"
         android:orientation="horizontal">
 
         <Button
-            style="?android:attr/buttonBarButtonStyle"
             android:id="@+id/karaokePrevious"
-            android:layout_width="52dp"
+            android:layout_width="56dp"
             android:layout_height="56dp"
-            android:backgroundTint="@color/white"
+            android:background="@drawable/bg_circle_glass"
             android:contentDescription="@string/previous"
-            android:text="@string/previous_symbol"
-            android:textColor="@color/purple"
-            android:textSize="26sp" />
+            android:drawableStart="@drawable/ic_skip_previous"
+            android:drawableTint="@color/white"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp" />
 
         <Button
-            style="?android:attr/buttonBarButtonStyle"
             android:id="@+id/karaokePlay"
             android:layout_width="0dp"
             android:layout_height="58dp"
-            android:layout_marginStart="10dp"
-            android:layout_marginEnd="10dp"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="12dp"
             android:layout_weight="1"
-            android:backgroundTint="@color/yellow"
+            android:background="@drawable/bg_circle_yellow"
+            android:elevation="4dp"
             android:text="@string/start_singing"
             android:textAllCaps="false"
             android:textColor="@color/ink"
-            android:textSize="18sp"
+            android:textSize="17sp"
             android:textStyle="bold" />
 
         <Button
-            style="?android:attr/buttonBarButtonStyle"
             android:id="@+id/karaokeNext"
-            android:layout_width="52dp"
+            android:layout_width="56dp"
             android:layout_height="56dp"
-            android:backgroundTint="@color/white"
+            android:background="@drawable/bg_circle_glass"
             android:contentDescription="@string/next"
-            android:text="@string/next_symbol"
-            android:textColor="@color/purple"
-            android:textSize="26sp" />
+            android:drawableStart="@drawable/ic_skip_next"
+            android:drawableTint="@color/white"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp" />
     </LinearLayout>
 
 </LinearLayout>

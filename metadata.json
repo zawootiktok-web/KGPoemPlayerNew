@@ -1,0 +1,6 @@
+{
+  "name": "KG တေးကဗျာ",
+  "description": "Kindergarten poem player with audio playback, karaoke lyrics sync, and interactive toy animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

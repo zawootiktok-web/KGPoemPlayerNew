@@ -47,21 +47,55 @@ public final class PoemAdapter extends RecyclerView.Adapter<PoemAdapter.Holder> 
     public void onBindViewHolder(@NonNull Holder holder, int position) {
         Poem poem = poems.get(position);
         boolean isCurrent = poem.number == nowPlayingNumber;
+        android.content.Context ctx = holder.itemView.getContext();
 
+        holder.itemView.setBackgroundResource(isCurrent
+                ? R.drawable.bg_poem_card_active
+                : R.drawable.bg_poem_card);
+
+        // Rotating colorful number badge
+        int badgeRes;
+        int textColor;
+        switch (poem.number % 4) {
+            case 0:
+                badgeRes = R.drawable.bg_number_purple;
+                textColor = 0xFF6D28D9;
+                break;
+            case 1:
+                badgeRes = R.drawable.bg_number_yellow;
+                textColor = 0xFFB45309;
+                break;
+            case 2:
+                badgeRes = R.drawable.bg_number_mint;
+                textColor = 0xFF0D9488;
+                break;
+            default:
+                badgeRes = R.drawable.bg_number_pink;
+                textColor = 0xFFE11D48;
+                break;
+        }
+        holder.number.setBackgroundResource(badgeRes);
+        holder.number.setTextColor(textColor);
         holder.number.setText(String.valueOf(poem.number));
+
         holder.title.setText(poem.title);
         holder.subtitle.setText(isCurrent
                 ? R.string.now_playing_next_automatic
                 : R.string.tap_to_play);
-        holder.subtitle.setTextColor(holder.itemView.getContext().getColor(
-                isCurrent ? R.color.purple : R.color.gray
+        holder.subtitle.setTextColor(ctx.getColor(
+                isCurrent ? R.color.purple : R.color.ink_secondary
         ));
+
         holder.favorite.setImageResource(poem.favorite
-                ? android.R.drawable.btn_star_big_on
-                : android.R.drawable.btn_star_big_off);
-        holder.favorite.setContentDescription(holder.itemView.getContext().getString(
+                ? R.drawable.ic_star_filled
+                : R.drawable.ic_star_outline);
+        holder.favorite.setContentDescription(ctx.getString(
                 poem.favorite ? R.string.remove_favorite : R.string.add_favorite
         ));
+
+        holder.play.setImageResource(isCurrent
+                ? R.drawable.ic_pause
+                : R.drawable.ic_play_arrow);
 
         holder.itemView.setOnClickListener(view -> listener.play(poem));
         holder.play.setOnClickListener(view -> listener.play(poem));

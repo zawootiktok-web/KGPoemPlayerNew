@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="cream">#FFF9EF</color>
-    <color name="ink">#24283A</color>
-    <color name="purple">#6547C7</color>
-    <color name="purple_dark">#4E359F</color>
+    <color name="cream">#FAF8F5</color>
+    <color name="ink">#2D3436</color>
+    <color name="ink_secondary">#636E72</color>
+    <color name="ink_tertiary">#A4B0BE</color>
+    <color name="purple">#6C5CE7</color>
+    <color name="purple_dark">#4834D4</color>
+    <color name="purple_light">#F1EEFF</color>
     <color name="yellow">#FFD166</color>
-    <color name="mint">#B8F2E6</color>
-    <color name="pink">#FF9DB4</color>
+    <color name="yellow_dark">#E5A919</color>
+    <color name="mint">#4ECDC4</color>
+    <color name="mint_light">#E3FAF8</color>
+    <color name="pink">#FF6B8B</color>
+    <color name="pink_light">#FFE9EE</color>
+    <color name="blue">#45AAF2</color>
+    <color name="blue_light">#EBF6FF</color>
     <color name="white">#FFFFFF</color>
-    <color name="gray">#626A78</color>
+    <color name="gray">#747D8C</color>
     <color name="lavender_text">#E9DEFF</color>
-    <color name="lyric_idle">#336F57D9</color>
+    <color name="lyric_idle">#26FFFFFF</color>
+    <color name="card_stroke">#EFE8DE</color>
+    <color name="search_bg">#FFFFFF</color>
 </resources>
