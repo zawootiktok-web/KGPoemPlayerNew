@@ -1,0 +1,47 @@
+{
+  "version": 5,
+  "source": "Wording preserved from supplied transcript; clauses split and timing windows normalized for karaoke playback.",
+  "title": "ကျီးကန်းကလေးက အာအာ",
+  "lines": [
+    {
+      "start": 0.0,
+      "end": 13.71,
+      "text": "ကျီးကန်းကလေးက (အာ)၁"
+    },
+    {
+      "start": 13.71,
+      "end": 23.8,
+      "text": "စာကလေးက (ကျိ)၁"
+    },
+    {
+      "start": 23.8,
+      "end": 38.23,
+      "text": "ကြောင်ကလေးက (ညောင်)၁"
+    },
+    {
+      "start": 38.23,
+      "end": 50.5,
+      "text": "ကြွက်ကလေးက (ကျီ)၁"
+    },
+    {
+      "start": 50.5,
+      "end": 54.83,
+      "text": "(အာ)၁၊"
+    },
+    {
+      "start": 54.83,
+      "end": 59.88,
+      "text": "(ကျိ)၁၊"
+    },
+    {
+      "start": 59.88,
+      "end": 66.37,
+      "text": "(ညောင်)၁၊"
+    },
+    {
+      "start": 66.37,
+      "end": 66.82,
+      "text": "(ကျီ)၁"
+    }
+  ]
+}

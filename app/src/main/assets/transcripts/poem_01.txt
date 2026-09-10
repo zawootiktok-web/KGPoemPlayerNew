@@ -1,0 +1,56 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_01.mp3, file size: 0.34 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 87.2 seconds
+Language: spa
+Timestamped segments:
+[00:08.9 - 00:13.0] Labi kuko mingi siga nyuwa jilo silola.
+[00:13.0 - 00:17.4] Labi kuko mingi siga nyuwa jilo silola.
+[00:17.4 - 00:20.5] Jago duga lo yare.
+[00:20.5 - 00:24.7] Bejen bejen bejen tai lo ye.
+[00:24.7 - 00:29.1] Shejen shejen shejen mi lo ye.
+[00:29.1 - 00:33.2] Jojen joijen joijen kal lo ye.
+[00:33.2 - 00:37.9] Jago duga lo yare.
+[00:37.9 - 00:43.6] Labi kuko mingi siga nyuwa jilo silola.
+[00:43.6 - 00:47.9] Labi kuko mingi siga nyuwa jilo silola.
+[00:47.9 - 00:50.8] Jago duga lo yare.
+[00:50.8 - 00:55.8] Bejen bejen bejen tai lo ye.
+[00:55.8 - 00:59.6] Shejen shejen shejen mi lo ye.
+[00:59.6 - 01:05.7] Jojen joijen joijen kal lo ye.
+[01:05.7 - 01:10.0] Jago duga lo yare.
+[01:10.0 - 01:12.6] Bejen bejen bejen tai lo ye.
+[01:12.6 - 01:16.8] Shejen shejen shejen mi lo ye.
+[01:16.8 - 01:22.1] Jojen joijen joijen kal lo ye.
+[01:22.1 - 01:26.0] Jago duga lo yare.
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_01_transcription_20260908_171409.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_01_transcription_20260908_171409.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_01.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_01.mp3, file size: 0.34 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:08.9 - 00:13.0] Labi kuko mingi siga nyuwa jilo silola.
+[00:13.0 - 00:17.4] Labi kuko mingi siga nyuwa jilo silola.
+[00:17.4 - 00:20.5] Jago duga lo yare.
+[00:20.5 - 00:24.7] Bejen bejen bejen tai lo ye.
+[00:24.7 - 00:29.1] Shejen shejen shejen mi lo ye.
+[00:29.1 - 00:33.2] Jojen joijen joijen kal lo ye.
+[00:33.2 - 00:37.9] Jago duga lo yare.
+[00:37.9 - 00:43.6] Labi kuko mingi siga nyuwa jilo silola.
+[00:43.6 - 00:47.9] Labi kuko mingi siga nyuwa jilo silola.
+[00:47.9 - 00:50.8] Jago duga lo yare.
+[00:50.8 - 00:55.8] Bejen bejen bejen tai lo ye.
+[00:55.8 - 00:59.6] Shejen shejen shejen mi lo ye.
+[00:59.6 - 01:05.7] Jojen joijen joijen kal lo ye.
+[01:05.7 - 01:10.0] Jago duga lo yare.
+[01:10.0 - 01:12.6] Bejen bejen bejen tai lo ye.
+[01:12.6 - 01:16.8] Shejen shejen shejen mi lo ye.
+[01:16.8 - 01:22.1] Jojen joijen joijen kal lo ye.
+[01:22.1 - 01:26.0] Jago duga lo yare.
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_01_transcription_20260908_171409.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_01_transcription_20260908_171409.txt

@@ -1,0 +1,30 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_31.mp3, file size: 0.40 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 103.8 seconds
+Language: mya
+Timestamped segments:
+[00:11.2 - 00:23.8] နုဆပ်ပါတဲ့ ဖေဖေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ မေမေရဲ့ ကျောင်းကိုသွားတော့မယ်။ ကျော
+[00:23.8 - 00:58.9] င်းရောက်တဲ့အခါ ပျော်
+[00:58.9 - 01:10.7] စရာ သူငယ်ချင်းများနှင့် ဆုပေါက်ငါ အရေးအဖတ် အတွက်ပညာလေ့လာမသာမှား။ ဝါလုံးလေးတွေ ဝိုင်းဝိုင်းရေး ကားကြီးခါကွေး ဖတ်ပါမလေး တစ်နှစ်သုံးလေး မအောင်ရေး ကျူး
+[01:10.7 - 01:42.1] စားပါဇူလေး။
+[01:42.1 - 01:42.1] နုဆပ်ပါတဲ့ ဖေဖေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ မေမေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ ဖေဖေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ မေမေရဲ့ ကျောင်းကိုသွားတော့မယ်။ ကျောင်းရောက်တဲ့အခါ ပျော်စရာ သူငယ်ချင်းများနှင့် ဆုပေါက်ငါ အရေးအဖတ် အတွက်ပညာလေ့လာမသာမှား။ ဝါလုံးလေးတွေ ဝိုင်းဝိုင်းရေး ကားကြီးခါကွေး ဖတ်ပါမလေး တစ်နှစ်သုံးလေး မအောင်ရေး ကျူးစားပါဇူလေး။ နုဆပ်ပါတဲ့ ဖေဖေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ မေမေရဲ့ ကျောင်းကိုသွားတော့မယ်။
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_31_transcription_20260908_172114.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_31_transcription_20260908_172114.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_31.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_31.mp3, file size: 0.40 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:11.2 - 00:23.8] နုဆပ်ပါတဲ့ ဖေဖေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ မေမေရဲ့ ကျောင်းကိုသွားတော့မယ်။ ကျော
+[00:23.8 - 00:58.9] င်းရောက်တဲ့အခါ ပျော်
+[00:58.9 - 01:10.7] စရာ သူငယ်ချင်းများနှင့် ဆုပေါက်ငါ အရေးအဖတ် အတွက်ပညာလေ့လာမသာမှား။ ဝါလုံးလေးတွေ ဝိုင်းဝိုင်းရေး ကားကြီးခါကွေး ဖတ်ပါမလေး တစ်နှစ်သုံးလေး မအောင်ရေး ကျူး
+[01:10.7 - 01:42.1] စားပါဇူလေး။
+[01:42.1 - 01:42.1] နုဆပ်ပါတဲ့ ဖေဖေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ မေမေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ ဖေဖေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ မေမေရဲ့ ကျောင်းကိုသွားတော့မယ်။ ကျောင်းရောက်တဲ့အခါ ပျော်စရာ သူငယ်ချင်းများနှင့် ဆုပေါက်ငါ အရေးအဖတ် အတွက်ပညာလေ့လာမသာမှား။ ဝါလုံးလေးတွေ ဝိုင်းဝိုင်းရေး ကားကြီးခါကွေး ဖတ်ပါမလေး တစ်နှစ်သုံးလေး မအောင်ရေး ကျူးစားပါဇူလေး။ နုဆပ်ပါတဲ့ ဖေဖေရဲ့ ကျောင်းကိုသွားတော့မယ်။ နုဆပ်ပါတဲ့ မေမေရဲ့ ကျောင်းကိုသွားတော့မယ်။
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_31_transcription_20260908_172114.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_31_transcription_20260908_172114.txt

@@ -1,0 +1,32 @@
+{
+  "version": 5,
+  "source": "Wording preserved from supplied transcript; clauses split and timing windows normalized for karaoke playback.",
+  "title": "ရေ",
+  "lines": [
+    {
+      "start": 13.0,
+      "end": 35.27,
+      "text": "(ရေ)¹ သောက်သုံးကြဖို့ရေ (ရေ)¹ ဆေးဖို့ကြောဖို့ရေ"
+    },
+    {
+      "start": 35.27,
+      "end": 52.44,
+      "text": "(ရေ)¹ ချက်ဖို့ပြုတ်ဖို့ရေ ရေကလေးဟာလေ"
+    },
+    {
+      "start": 52.44,
+      "end": 65.89,
+      "text": "အဓိကကျလှပေ ထမင်းအသက် (၇) ရက်"
+    },
+    {
+      "start": 65.89,
+      "end": 74.71,
+      "text": "ရေအသက်ကတော့ တစ်မနက်"
+    },
+    {
+      "start": 74.71,
+      "end": 92.8,
+      "text": "ရေကောင်း ရေသန့် ရမှသာ ကျန်းမာဝဖြိုးမှာ"
+    }
+  ]
+}

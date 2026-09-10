@@ -1,0 +1,22 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_63.mp3, file size: 0.25 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 65.4 seconds
+Language: mya
+Timestamped segments:
+[00:07.0 - 00:07.6] ကော်ဖီသောက်မယ် မာမာရယ် ကော်ဖီသောက်မယ် မာမာရယ် ကော်ဖီသောက်မယ် မာမာရယ် အားလုံးအတွက် ကျော်ပါ。အိုးကိုချပါ စုစုရယ် အိုးကိုချပါ စုစုရယ် အိုးကိုချပါ စုစုရယ် အားလုံးချူချူသောက်မယ်ကွယ်。ကော်ဖီသောက်မယ် မာမာရယ် ကော်ဖီသောက်မယ် မာမာရယ် ကော်ဖီသောက်မယ် မာမာရယ် အားလုံးအတွက် ကျော်ပါ。အိုးကိုချပါ စုစုရယ် အိုးကိုချပါ စုစုရယ် အိုးကိုချပါ စုစုရယ် အားလုံးချူချူသောက်မယ်ကွယ်。
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_63_transcription_20260908_172648.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_63_transcription_20260908_172648.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_63.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_63.mp3, file size: 0.25 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:07.0 - 00:07.6] ကော်ဖီသောက်မယ် မာမာရယ် ကော်ဖီသောက်မယ် မာမာရယ် ကော်ဖီသောက်မယ် မာမာရယ် အားလုံးအတွက် ကျော်ပါ。အိုးကိုချပါ စုစုရယ် အိုးကိုချပါ စုစုရယ် အိုးကိုချပါ စုစုရယ် အားလုံးချူချူသောက်မယ်ကွယ်。ကော်ဖီသောက်မယ် မာမာရယ် ကော်ဖီသောက်မယ် မာမာရယ် ကော်ဖီသောက်မယ် မာမာရယ် အားလုံးအတွက် ကျော်ပါ。အိုးကိုချပါ စုစုရယ် အိုးကိုချပါ စုစုရယ် အိုးကိုချပါ စုစုရယ် အားလုံးချူချူသောက်မယ်ကွယ်。
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_63_transcription_20260908_172648.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_63_transcription_20260908_172648.txt

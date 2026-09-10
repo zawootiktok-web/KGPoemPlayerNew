@@ -1,0 +1,28 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_29.mp3, file size: 0.36 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 94.5 seconds
+Language: mya
+Timestamped segments:
+[00:09.3 - 00:23.8] သူလေးသူလေးဝါးတယ် သူဝါးတယ် အစားကောင်းကောင်းစားနိုင်တယ် သူလေးသူလေးလှားတယ် သူ
+[00:23.8 - 00:49.1] လှားတယ် စိတ်ထားကောင်းကောင်းထားလို့ကွယ် ကိုလေးကိုလေးဝါးတယ် ကို
+[00:49.1 - 01:16.8] ဝါးတယ် သူလိုအစားစားနိုင်တယ် ကိုလေးကိုလေးလှားတယ် ကိုလှားတယ် သူလိုစိတ်ထားကောင်းလို့ကွယ် သူ
+[01:16.8 - 01:16.8] လေးသူလေးဝါးတယ် သူဝါးတယ် အစားကောင်းကောင်းစားနိုင်တယ် သူလေးသူလေးလှားတယ် သူလှားတယ် စိတ်ထားကောင်းကောင်းထားလို့ကွယ် ကိုလေးကိုလေးဝါးတယ် ကိုဝါးတယ် သူလိုအစားစားနိုင်တယ် ကိုလေးကိုလေးလှားတယ် ကိုလှားတယ် သူလိုစိတ်ထားကောင်းလို့ကွယ်
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_29_transcription_20260908_172054.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_29_transcription_20260908_172054.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_29.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_29.mp3, file size: 0.36 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:09.3 - 00:23.8] သူလေးသူလေးဝါးတယ် သူဝါးတယ် အစားကောင်းကောင်းစားနိုင်တယ် သူလေးသူလေးလှားတယ် သူ
+[00:23.8 - 00:49.1] လှားတယ် စိတ်ထားကောင်းကောင်းထားလို့ကွယ် ကိုလေးကိုလေးဝါးတယ် ကို
+[00:49.1 - 01:16.8] ဝါးတယ် သူလိုအစားစားနိုင်တယ် ကိုလေးကိုလေးလှားတယ် ကိုလှားတယ် သူလိုစိတ်ထားကောင်းလို့ကွယ် သူ
+[01:16.8 - 01:16.8] လေးသူလေးဝါးတယ် သူဝါးတယ် အစားကောင်းကောင်းစားနိုင်တယ် သူလေးသူလေးလှားတယ် သူလှားတယ် စိတ်ထားကောင်းကောင်းထားလို့ကွယ် ကိုလေးကိုလေးဝါးတယ် ကိုဝါးတယ် သူလိုအစားစားနိုင်တယ် ကိုလေးကိုလေးလှားတယ် ကိုလှားတယ် သူလိုစိတ်ထားကောင်းလို့ကွယ်
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_29_transcription_20260908_172054.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_29_transcription_20260908_172054.txt

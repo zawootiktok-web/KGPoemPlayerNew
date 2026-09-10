@@ -1,0 +1,52 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_32.mp3, file size: 0.20 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 51.8 seconds
+Language: tam
+Timestamped segments:
+[00:09.8 - 00:11.8] சிக்கன்களே ஆ ஆ ஆ.
+[00:11.8 - 00:14.3] சாக்லீக்கா சி சி சி.
+[00:14.3 - 00:17.2] ஜாங்க்லீக்கா ஞாவு ஞாவு ஞாவு.
+[00:17.2 - 00:19.8] ஜ்வேக்லீக்கா ட்வி ட்வி ட்வி.
+[00:19.8 - 00:22.5] ஆ ஆ ஆ ஆ ஆ ஆ ஆ.
+[00:22.5 - 00:25.1] சி சி சி சி சி சி.
+[00:25.1 - 00:27.9] ஞாவு ஞாவு ஞாவு ஞாவு ஞாவு.
+[00:27.9 - 00:30.5] ட்வி ட்வி ட்வி ட்வி ட்வி ட்வி.
+[00:30.5 - 00:33.1] சிக்கன்களே ஆ ஆ ஆ.
+[00:33.1 - 00:35.6] சாக்லீக்கா சி சி சி.
+[00:35.6 - 00:38.5] ஜாங்க்லீக்கா ஞாவு ஞாவு ஞாவு.
+[00:38.5 - 00:41.4] ஜ்வேக்லீக்கா ட்வி ட்வி ட்வி.
+[00:41.4 - 00:43.5] ஆ ஆ ஆ ஆ ஆ ஆ ஆ.
+[00:43.5 - 00:46.8] சி சி சி சி சி சி சி.
+[00:46.8 - 00:49.4] ஞாவு ஞாவு ஞாவு ஞாவு ஞாவு ஞாவு.
+[00:49.4 - 00:51.7] ட்வி ட்வி ட்வி ட்வி ட்வி ட்வி.
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_32_transcription_20260908_172119.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_32_transcription_20260908_172119.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_32.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_32.mp3, file size: 0.20 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:09.8 - 00:11.8] சிக்கன்களே ஆ ஆ ஆ.
+[00:11.8 - 00:14.3] சாக்லீக்கா சி சி சி.
+[00:14.3 - 00:17.2] ஜாங்க்லீக்கா ஞாவு ஞாவு ஞாவு.
+[00:17.2 - 00:19.8] ஜ்வேக்லீக்கா ட்வி ட்வி ட்வி.
+[00:19.8 - 00:22.5] ஆ ஆ ஆ ஆ ஆ ஆ ஆ.
+[00:22.5 - 00:25.1] சி சி சி சி சி சி.
+[00:25.1 - 00:27.9] ஞாவு ஞாவு ஞாவு ஞாவு ஞாவு.
+[00:27.9 - 00:30.5] ட்வி ட்வி ட்வி ட்வி ட்வி ட்வி.
+[00:30.5 - 00:33.1] சிக்கன்களே ஆ ஆ ஆ.
+[00:33.1 - 00:35.6] சாக்லீக்கா சி சி சி.
+[00:35.6 - 00:38.5] ஜாங்க்லீக்கா ஞாவு ஞாவு ஞாவு.
+[00:38.5 - 00:41.4] ஜ்வேக்லீக்கா ட்வி ட்வி ட்வி.
+[00:41.4 - 00:43.5] ஆ ஆ ஆ ஆ ஆ ஆ ஆ.
+[00:43.5 - 00:46.8] சி சி சி சி சி சி சி.
+[00:46.8 - 00:49.4] ஞாவு ஞாவு ஞாவு ஞாவு ஞாவு ஞாவு.
+[00:49.4 - 00:51.7] ட்வி ட்வி ட்வி ட்வி ட்வி ட்வி.
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_32_transcription_20260908_172119.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_32_transcription_20260908_172119.txt

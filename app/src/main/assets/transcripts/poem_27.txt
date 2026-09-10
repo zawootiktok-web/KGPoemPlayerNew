@@ -1,0 +1,28 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_27.mp3, file size: 0.30 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 78.6 seconds
+Language: mya
+Timestamped segments:
+[00:13.5 - 00:31.2] ဘယ်ဗျူကလေးတွေ ကပ်ကပ်ကပ် ကံဆန္နမှာပြောနေ ဘယ်ဗျူကလေးတွေ က
+[00:31.2 - 00:54.1] ပ်ကပ်ကပ် ကံဆန္နမှာပြောနေတို့နှစ်တွေလည်း တွေ့ရတဲ့ သူအယောင်က အဖြူရောင်တို့နှစ်တွေလည်း သူလိုပဲ
+[00:54.1 - 01:04.9] စိတ်
+[01:04.9 - 01:10.8] ဓာတ်ကလေးတွေ အဖြူရောင်ဘယ်ဗျူကလေးတွေ ကပ်ကပ်ကပ် ကံဆန္နမှာပြောနေ ဘယ်ဗျူကလေးတွေ ကပ်ကပ်ကပ် ကံဆန္နမှာပြောနေတို့နှစ်တွေလည်း တွေ့ရတဲ့ သူအယောင်က အဖြူရောင်တို့နှစ်တွေလည်း သူလိုပဲ စိတ်ဓာတ်ကလေးတွေ အဖြူရောင်
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_27_transcription_20260908_172046.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_27_transcription_20260908_172046.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_27.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_27.mp3, file size: 0.30 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:13.5 - 00:31.2] ဘယ်ဗျူကလေးတွေ ကပ်ကပ်ကပ် ကံဆန္နမှာပြောနေ ဘယ်ဗျူကလေးတွေ က
+[00:31.2 - 00:54.1] ပ်ကပ်ကပ် ကံဆန္နမှာပြောနေတို့နှစ်တွေလည်း တွေ့ရတဲ့ သူအယောင်က အဖြူရောင်တို့နှစ်တွေလည်း သူလိုပဲ
+[00:54.1 - 01:04.9] စိတ်
+[01:04.9 - 01:10.8] ဓာတ်ကလေးတွေ အဖြူရောင်ဘယ်ဗျူကလေးတွေ ကပ်ကပ်ကပ် ကံဆန္နမှာပြောနေ ဘယ်ဗျူကလေးတွေ ကပ်ကပ်ကပ် ကံဆန္နမှာပြောနေတို့နှစ်တွေလည်း တွေ့ရတဲ့ သူအယောင်က အဖြူရောင်တို့နှစ်တွေလည်း သူလိုပဲ စိတ်ဓာတ်ကလေးတွေ အဖြူရောင်
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_27_transcription_20260908_172046.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_27_transcription_20260908_172046.txt

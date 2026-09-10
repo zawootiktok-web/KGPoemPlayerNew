@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream">#FFF9EF</color>
+    <color name="ink">#24283A</color>
+    <color name="purple">#6547C7</color>
+    <color name="purple_dark">#4E359F</color>
+    <color name="yellow">#FFD166</color>
+    <color name="mint">#B8F2E6</color>
+    <color name="pink">#FF9DB4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#626A78</color>
+    <color name="lavender_text">#E9DEFF</color>
+    <color name="lyric_idle">#336F57D9</color>
+</resources>

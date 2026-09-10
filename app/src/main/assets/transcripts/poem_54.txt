@@ -1,0 +1,52 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_54.mp3, file size: 0.29 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 75.0 seconds
+Language: eng
+Timestamped segments:
+[00:09.4 - 00:12.6] Pussycat, pussycat, pussycat.
+[00:12.6 - 00:16.7] Meow, meow, meow, meow, meow, meow, meow.
+[00:16.7 - 00:20.2] Pussycat, pussycat, pussycat.
+[00:20.2 - 00:23.5] Meow, meow, meow, meow, meow.
+[00:23.5 - 00:27.8] Puppy dog, puppy dog, puppy dog.
+[00:27.8 - 00:31.6] Woof, woof, woof, woof, woof, woof, woof.
+[00:31.6 - 00:35.4] Puppy dog, puppy dog, puppy dog.
+[00:35.4 - 00:38.7] Woof, woof, woof, woof, woof.
+[00:38.7 - 00:43.0] Little duck, little duck, little duck.
+[00:43.0 - 00:47.0] Quack, quack, quack, quack, quack, quack, quack.
+[00:47.0 - 00:50.6] Little duck, little duck, little duck.
+[00:50.6 - 00:53.9] Quack, quack, quack, quack, quack.
+[00:53.9 - 00:58.3] Little snake, little snake, little snake.
+[00:58.3 - 01:02.1] Shwee, shwee, shwee, shwee, shwee, shwee, shwee.
+[01:02.1 - 01:05.9] Little snake, little snake, little snake.
+[01:05.9 - 01:09.4] Shwee, shwee, shwee, shwee, shwee.
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_54_transcription_20260908_172441.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_54_transcription_20260908_172441.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_54.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_54.mp3, file size: 0.29 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:09.4 - 00:12.6] Pussycat, pussycat, pussycat.
+[00:12.6 - 00:16.7] Meow, meow, meow, meow, meow, meow, meow.
+[00:16.7 - 00:20.2] Pussycat, pussycat, pussycat.
+[00:20.2 - 00:23.5] Meow, meow, meow, meow, meow.
+[00:23.5 - 00:27.8] Puppy dog, puppy dog, puppy dog.
+[00:27.8 - 00:31.6] Woof, woof, woof, woof, woof, woof, woof.
+[00:31.6 - 00:35.4] Puppy dog, puppy dog, puppy dog.
+[00:35.4 - 00:38.7] Woof, woof, woof, woof, woof.
+[00:38.7 - 00:43.0] Little duck, little duck, little duck.
+[00:43.0 - 00:47.0] Quack, quack, quack, quack, quack, quack, quack.
+[00:47.0 - 00:50.6] Little duck, little duck, little duck.
+[00:50.6 - 00:53.9] Quack, quack, quack, quack, quack.
+[00:53.9 - 00:58.3] Little snake, little snake, little snake.
+[00:58.3 - 01:02.1] Shwee, shwee, shwee, shwee, shwee, shwee, shwee.
+[01:02.1 - 01:05.9] Little snake, little snake, little snake.
+[01:05.9 - 01:09.4] Shwee, shwee, shwee, shwee, shwee.
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_54_transcription_20260908_172441.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_54_transcription_20260908_172441.txt

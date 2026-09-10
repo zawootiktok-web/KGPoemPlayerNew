@@ -1,0 +1,36 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_15.mp3, file size: 0.58 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 150.8 seconds
+Language: zho
+Timestamped segments:
+[00:10.8 - 00:21.4] 米也踏提腿咖尼咪。腿咯拉比嘎贝塔。米也踏提腿咖尼咪。腿咯拉比嘎贝塔
+[00:21.4 - 00:48.5] 。咚咚咚，杰杰杰。咚咚杰杰弯腰刷。米
+[00:48.5 - 00:58.7] 也踏提腿咖尼咪。腿咯拉比嘎贝塔。米也踏提腿咖尼咪。腿咯拉比嘎贝塔
+[00:58.7 - 01:25.9] 。咚咚咚，杰杰杰。咚咚杰杰弯腰刷。米
+[01:25.9 - 01:36.1] 也踏提腿咖尼咪。腿咯拉比嘎贝塔。米也踏提腿咖尼咪。腿咯拉比嘎贝塔
+[01:36.1 - 01:46.2] 。咚咚咚，杰杰杰。咚咚杰杰弯腰刷。咚咚咚，杰杰杰。咚咚杰杰弯腰
+[01:46.2 - 01:56.5] 刷。咚咚咚，杰杰杰。咚咚杰杰弯腰刷。咚咚咚，杰杰杰。咚咚杰杰弯
+[01:56.5 - 01:57.4] 腰刷。
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_15_transcription_20260908_171718.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_15_transcription_20260908_171718.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_15.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_15.mp3, file size: 0.58 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:10.8 - 00:21.4] 米也踏提腿咖尼咪。腿咯拉比嘎贝塔。米也踏提腿咖尼咪。腿咯拉比嘎贝塔
+[00:21.4 - 00:48.5] 。咚咚咚，杰杰杰。咚咚杰杰弯腰刷。米
+[00:48.5 - 00:58.7] 也踏提腿咖尼咪。腿咯拉比嘎贝塔。米也踏提腿咖尼咪。腿咯拉比嘎贝塔
+[00:58.7 - 01:25.9] 。咚咚咚，杰杰杰。咚咚杰杰弯腰刷。米
+[01:25.9 - 01:36.1] 也踏提腿咖尼咪。腿咯拉比嘎贝塔。米也踏提腿咖尼咪。腿咯拉比嘎贝塔
+[01:36.1 - 01:46.2] 。咚咚咚，杰杰杰。咚咚杰杰弯腰刷。咚咚咚，杰杰杰。咚咚杰杰弯腰
+[01:46.2 - 01:56.5] 刷。咚咚咚，杰杰杰。咚咚杰杰弯腰刷。咚咚咚，杰杰杰。咚咚杰杰弯
+[01:56.5 - 01:57.4] 腰刷。
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_15_transcription_20260908_171718.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_15_transcription_20260908_171718.txt

@@ -1,0 +1,42 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_03.mp3, file size: 0.27 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 70.7 seconds
+Language: vie
+Timestamped segments:
+[00:08.8 - 00:12.5] Hủ ti gả lê wa túc túc, nhi nhi phô wa yúc.
+[00:12.5 - 00:17.1] Căng súc phuân nế cúc củ yế, kiăng mủ nế dù tế.
+[00:17.1 - 00:21.5] Lá chên lôn lô chặc đàng xí, mị mị nặc nặc tí.
+[00:21.5 - 00:25.9] Tình mịnh tí ní ây ất xuê, bê chí bê lên mưê.
+[00:25.9 - 00:30.0] Xư rị thằng lô đờ đa chí, mị mị dù yên tí.
+[00:30.0 - 00:40.0] Hủ ti
+[00:40.0 - 00:43.2] gả lê wa túc túc, nhi nhi phô wa yúc.
+[00:43.2 - 00:47.7] Căng súc phuân nế cúc củ yế, kiăng mủ nế dù tế.
+[00:47.7 - 00:51.8] Lá chên lôn lô chặc đàng xí, mị mị nặc nặc tí.
+[00:51.8 - 00:56.5] Tình mịnh tí ní ây ất xuê, bê chí bê lên mưê.
+[00:56.5 - 01:00.6] Xư rị thằng lô đờ đa chí, mị mị dù yên tí.
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_03_transcription_20260908_171503.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_03_transcription_20260908_171503.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_03.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_03.mp3, file size: 0.27 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:08.8 - 00:12.5] Hủ ti gả lê wa túc túc, nhi nhi phô wa yúc.
+[00:12.5 - 00:17.1] Căng súc phuân nế cúc củ yế, kiăng mủ nế dù tế.
+[00:17.1 - 00:21.5] Lá chên lôn lô chặc đàng xí, mị mị nặc nặc tí.
+[00:21.5 - 00:25.9] Tình mịnh tí ní ây ất xuê, bê chí bê lên mưê.
+[00:25.9 - 00:30.0] Xư rị thằng lô đờ đa chí, mị mị dù yên tí.
+[00:30.0 - 00:40.0] Hủ ti
+[00:40.0 - 00:43.2] gả lê wa túc túc, nhi nhi phô wa yúc.
+[00:43.2 - 00:47.7] Căng súc phuân nế cúc củ yế, kiăng mủ nế dù tế.
+[00:47.7 - 00:51.8] Lá chên lôn lô chặc đàng xí, mị mị nặc nặc tí.
+[00:51.8 - 00:56.5] Tình mịnh tí ní ây ất xuê, bê chí bê lên mưê.
+[00:56.5 - 01:00.6] Xư rị thằng lô đờ đa chí, mị mị dù yên tí.
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_03_transcription_20260908_171503.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_03_transcription_20260908_171503.txt

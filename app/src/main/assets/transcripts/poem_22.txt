@@ -1,0 +1,32 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_22.mp3, file size: 0.44 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 116.4 seconds
+Language: mya
+Timestamped segments:
+[00:04.2 - 00:14.9] assoc Pé pé သို့ မယ်သုံပွင့်ရှိပါသလား။
+[00:14.9 - 00:38.9] ဟုတ်ကဲ့၊ ဟုတ်
+[00:38.9 - 01:02.3] ကဲ့
+[01:02.3 - 01:16.4] ၊ သို
+[01:16.4 - 01:55.2] အိပ် အပြည့်ဗျာ။ တစ်အိတ်က ဆရာဘူးတစ်အိတ်က ဆရာမဘူး။ ကျန်တဲ့အိတ်ကာ လူကလေး လမ်းကြားထဲ ကကလေး။ assoc Pé pén သို့မယ် သုံပွင့် ရှိပါသလား။ ဟုတ်ကဲ့၊ ဟုတ်ကဲ့၊ သိုအိပ် အပြည့်ဗျာ။ တစ်အိတ်က ဆရာဘူး တစ်အိတ်က ဆရာမဘူး။ကျန်တဲ့အိတ်ကာလူကလေးလမ်းကြားထဲ ကကလေး。Pé pé သို့မယ် သုံပွင့် ရှိပါသလား။ ဟုတ်ကဲ့၊ ဟုတ်ကဲ့၊ သိုအိပ် အပြည့်ဗျာ။ တစ်အိတ်က ဆရာဘူး တစ်အိတ်က ဆရာမဘူး။ ကျန်တဲ့အိတ်ကာ လူကလေး လမ်းကြားထဲ ကကလေး။ တစ်အိတ်က ဆရာဘူး တစ်အိတ်က ဆရာမဘူး။ ကျန်တဲ့အိတ်ကာ လူကလေး လမ်းကြားထဲ က
+[01:55.2 - 01:56.4] ကလေး。
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_22_transcription_20260908_171956.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_22_transcription_20260908_171956.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_22.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_22.mp3, file size: 0.44 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:04.2 - 00:14.9] assoc Pé pé သို့ မယ်သုံပွင့်ရှိပါသလား။
+[00:14.9 - 00:38.9] ဟုတ်ကဲ့၊ ဟုတ်
+[00:38.9 - 01:02.3] ကဲ့
+[01:02.3 - 01:16.4] ၊ သို
+[01:16.4 - 01:55.2] အိပ် အပြည့်ဗျာ။ တစ်အိတ်က ဆရာဘူးတစ်အိတ်က ဆရာမဘူး။ ကျန်တဲ့အိတ်ကာ လူကလေး လမ်းကြားထဲ ကကလေး။ assoc Pé pén သို့မယ် သုံပွင့် ရှိပါသလား။ ဟုတ်ကဲ့၊ ဟုတ်ကဲ့၊ သိုအိပ် အပြည့်ဗျာ။ တစ်အိတ်က ဆရာဘူး တစ်အိတ်က ဆရာမဘူး။ကျန်တဲ့အိတ်ကာလူကလေးလမ်းကြားထဲ ကကလေး。Pé pé သို့မယ် သုံပွင့် ရှိပါသလား။ ဟုတ်ကဲ့၊ ဟုတ်ကဲ့၊ သိုအိပ် အပြည့်ဗျာ။ တစ်အိတ်က ဆရာဘူး တစ်အိတ်က ဆရာမဘူး။ ကျန်တဲ့အိတ်ကာ လူကလေး လမ်းကြားထဲ ကကလေး။ တစ်အိတ်က ဆရာဘူး တစ်အိတ်က ဆရာမဘူး။ ကျန်တဲ့အိတ်ကာ လူကလေး လမ်းကြားထဲ က
+[01:55.2 - 01:56.4] ကလေး。
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_22_transcription_20260908_171956.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_22_transcription_20260908_171956.txt

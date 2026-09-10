@@ -1,0 +1,28 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_20.mp3, file size: 0.30 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 78.7 seconds
+Language: mya
+Timestamped segments:
+[00:11.3 - 00:23.3] ငယ်သော ငယ်ကလေး ညီညီ သစ်ကိုင်းပေါ်မှာ ထိုင်နေ။ အံမိလေးက လှု
+[00:23.3 - 00:34.1] ပ်၍နေ လှုပ်၊ လှုပ်၊ လှုပ်၍နေ။ အံမိလေးက လှုပ်၍နေ ကောင်လေးက ငြိမ်း
+[00:34.1 - 01:16.2] ၍နေ။ အံမိလေးက လှုပ်၍နေ လှုပ်၊ လှုပ်၊ လှုပ်၍နေ။ င
+[01:16.2 - 01:16.9] ယ်သော ငယ်ကလေး ညီညီ သစ်ကိုင်းပေါ်မှာ ထိုင်နေ။ အံမိလေးက လှုပ်၍နေ လှုပ်၊ လှုပ်၊ လှုပ်၍နေ။ အံမိလေးက လှုပ်၍နေ ကောင်လေးက ငြိမ်း၍နေ။ အံမိလေးက လှုပ်၍နေ လှုပ်၊ လှုပ်၊ လှုပ်၍နေ။
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_20_transcription_20260908_171921.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_20_transcription_20260908_171921.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_20.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_20.mp3, file size: 0.30 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:11.3 - 00:23.3] ငယ်သော ငယ်ကလေး ညီညီ သစ်ကိုင်းပေါ်မှာ ထိုင်နေ။ အံမိလေးက လှု
+[00:23.3 - 00:34.1] ပ်၍နေ လှုပ်၊ လှုပ်၊ လှုပ်၍နေ။ အံမိလေးက လှုပ်၍နေ ကောင်လေးက ငြိမ်း
+[00:34.1 - 01:16.2] ၍နေ။ အံမိလေးက လှုပ်၍နေ လှုပ်၊ လှုပ်၊ လှုပ်၍နေ။ င
+[01:16.2 - 01:16.9] ယ်သော ငယ်ကလေး ညီညီ သစ်ကိုင်းပေါ်မှာ ထိုင်နေ။ အံမိလေးက လှုပ်၍နေ လှုပ်၊ လှုပ်၊ လှုပ်၍နေ။ အံမိလေးက လှုပ်၍နေ ကောင်လေးက ငြိမ်း၍နေ။ အံမိလေးက လှုပ်၍နေ လှုပ်၊ လှုပ်၊ လှုပ်၍နေ။
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_20_transcription_20260908_171921.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_20_transcription_20260908_171921.txt

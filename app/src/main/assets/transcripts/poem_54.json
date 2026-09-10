@@ -1,0 +1,67 @@
+{
+  "version": 5,
+  "source": "Wording preserved from supplied transcript; clauses split and timing windows normalized for karaoke playback.",
+  "title": "Pussy Cat",
+  "lines": [
+    {
+      "start": 5.0,
+      "end": 11.9,
+      "text": "Pussy Cat —"
+    },
+    {
+      "start": 11.9,
+      "end": 16.5,
+      "text": "ညောင်၊"
+    },
+    {
+      "start": 16.5,
+      "end": 21.1,
+      "text": "ညောင်။"
+    },
+    {
+      "start": 21.1,
+      "end": 28.73,
+      "text": "Pussy Dog —"
+    },
+    {
+      "start": 28.73,
+      "end": 32.96,
+      "text": "ဝုတ်၊"
+    },
+    {
+      "start": 32.96,
+      "end": 37.2,
+      "text": "ဝုတ်။"
+    },
+    {
+      "start": 37.2,
+      "end": 45.63,
+      "text": "Little Duck —"
+    },
+    {
+      "start": 45.63,
+      "end": 49.47,
+      "text": "ကွပ်၊"
+    },
+    {
+      "start": 49.47,
+      "end": 53.3,
+      "text": "ကွပ်။"
+    },
+    {
+      "start": 53.3,
+      "end": 62.96,
+      "text": "Little Snake —"
+    },
+    {
+      "start": 62.96,
+      "end": 66.18,
+      "text": "ရှီ၊"
+    },
+    {
+      "start": 66.18,
+      "end": 69.4,
+      "text": "ရှီ။"
+    }
+  ]
+}

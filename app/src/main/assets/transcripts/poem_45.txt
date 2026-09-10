@@ -1,0 +1,26 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_45.mp3, file size: 0.29 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 74.8 seconds
+Language: mya
+Timestamped segments:
+[00:07.8 - 00:19.3] ဟိုလူ
+[00:19.3 - 01:09.6] မကောင်းဘူးကွယ် မဆိုနဲ့ကွယ် မဆုံးဖြတ်ပါနဲ့ကွယ် ကောင်းတဲ့အရာလည်းရှိကြမှာပဲ ရှာဖွေကာလေ့ကျင့်ခန်းစေချင်တယ် ဟိုလူမျက်လုံးနဲ့မှားလွန်ငယ်တဲ့ ဆူးကလေးကိုတွေ့ရင် ကိုယ့်မျက်စိမှာလည်းဆူးကြီးကြီးလိုပဲ ခိုလိုခိုလိုဖြစ်ခါနေတော့တယ် ဟို
+[01:09.6 - 01:11.7] လူမကောင်းဘူးကွယ် မဆိုနဲ့ကွယ် မဆုံးဖြတ်ပါနဲ့ကွယ် ကောင်းတဲ့အရာလည်းရှိကြမှာပဲ ရှာဖွေကာလေ့ကျင့်ခန်းစေချင်တယ် ဟိုလူမျက်လုံးနဲ့မှားလွန်ငယ်တဲ့ ဆူးကလေးကိုတွေ့ရင် ကိုယ့်မျက်စိမှာလည်းဆူးကြီးကြီးလိုပဲ ခိုလိုခိုလိုဖြစ်ခါနေတော့တယ်
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_45_transcription_20260908_172334.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_45_transcription_20260908_172334.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_45.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_45.mp3, file size: 0.29 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:07.8 - 00:19.3] ဟိုလူ
+[00:19.3 - 01:09.6] မကောင်းဘူးကွယ် မဆိုနဲ့ကွယ် မဆုံးဖြတ်ပါနဲ့ကွယ် ကောင်းတဲ့အရာလည်းရှိကြမှာပဲ ရှာဖွေကာလေ့ကျင့်ခန်းစေချင်တယ် ဟိုလူမျက်လုံးနဲ့မှားလွန်ငယ်တဲ့ ဆူးကလေးကိုတွေ့ရင် ကိုယ့်မျက်စိမှာလည်းဆူးကြီးကြီးလိုပဲ ခိုလိုခိုလိုဖြစ်ခါနေတော့တယ် ဟို
+[01:09.6 - 01:11.7] လူမကောင်းဘူးကွယ် မဆိုနဲ့ကွယ် မဆုံးဖြတ်ပါနဲ့ကွယ် ကောင်းတဲ့အရာလည်းရှိကြမှာပဲ ရှာဖွေကာလေ့ကျင့်ခန်းစေချင်တယ် ဟိုလူမျက်လုံးနဲ့မှားလွန်ငယ်တဲ့ ဆူးကလေးကိုတွေ့ရင် ကိုယ့်မျက်စိမှာလည်းဆူးကြီးကြီးလိုပဲ ခိုလိုခိုလိုဖြစ်ခါနေတော့တယ်
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_45_transcription_20260908_172334.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_45_transcription_20260908_172334.txt

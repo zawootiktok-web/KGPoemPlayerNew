@@ -1,0 +1,26 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_46.mp3, file size: 0.28 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 74.2 seconds
+Language: mya
+Timestamped segments:
+[00:12.8 - 00:35.2] စားစားစားတိုင်း
+[00:35.2 - 01:08.6] ကွ
+[01:08.6 - 01:09.0] ယ် လက်ဆေးကြရမယ် လက်ကိုဆင်ဆင်စေ ကျန်းမာရေးနဲ့ညီညွတ်တယ် စားစားစားတိုင်းကွယ် လက်ဆေးကြရမယ် လက်ကိုဆင်ဆင်စေ ကျန်းမာရေးနဲ့ညီညွတ်တယ် ဒူပြောပြော ဒူပြောပြော ထမင်းစားကိုမေမေခေါ် လက်ဆေးကြစို့နော် ဟေ့ လက်ဆေးကြစို့နော် ဒူပြောပြော ဒူပြောပြော ထမင်းစားကိုမေမေခေါ် လက်ဆေးကြစို့နော် ဟေ့ လက်ဆေးကြစို့နော်
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_46_transcription_20260908_172340.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_46_transcription_20260908_172340.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_46.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_46.mp3, file size: 0.28 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:12.8 - 00:35.2] စားစားစားတိုင်း
+[00:35.2 - 01:08.6] ကွ
+[01:08.6 - 01:09.0] ယ် လက်ဆေးကြရမယ် လက်ကိုဆင်ဆင်စေ ကျန်းမာရေးနဲ့ညီညွတ်တယ် စားစားစားတိုင်းကွယ် လက်ဆေးကြရမယ် လက်ကိုဆင်ဆင်စေ ကျန်းမာရေးနဲ့ညီညွတ်တယ် ဒူပြောပြော ဒူပြောပြော ထမင်းစားကိုမေမေခေါ် လက်ဆေးကြစို့နော် ဟေ့ လက်ဆေးကြစို့နော် ဒူပြောပြော ဒူပြောပြော ထမင်းစားကိုမေမေခေါ် လက်ဆေးကြစို့နော် ဟေ့ လက်ဆေးကြစို့နော်
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_46_transcription_20260908_172340.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_46_transcription_20260908_172340.txt

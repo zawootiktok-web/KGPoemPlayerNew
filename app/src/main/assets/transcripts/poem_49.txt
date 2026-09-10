@@ -1,0 +1,26 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_49.mp3, file size: 0.45 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 117.0 seconds
+Language: mya
+Timestamped segments:
+[00:00.5 - 00:42.2] လိပ်လိမ်မာမာနေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာ နဲရယ် ကြိုရေနေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ နားခဲချင်းနဲ့ ကြိုရေနေပါမယ်။ စင်ရာပေးတဲ့ အိမ်စာ ကောင်းကောင်းရေးမယ်ကွယ်။ မင်းရင်ဘာခင်ပြောဆိုတာနာထောင်မယ်။ ကိုယ့်ညီလိုတဲ့သူစီသွားရောက်ကြလာရဲ့း၊ နားခဲချင်းနဲ့ ကြိုရေနေပါမယ်။ လ Shortlyလိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာနဲရယ် ကြိုရေနေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ နားခဲချင်းနဲ့ ကြိုရေနေပါမယ်။စင်ရာ ပေးတဲ့အိမ်စာ ကောင်းကောင်း ရေးမယ်ကွယ်။ မင်းရင် ဘာခင် ပြောဆိုတာ နာထောင်မယ်။ ကိုယ့်ညီလိုတဲ့ သူစီ သွားရောက်ကြလာရင် နားခဲချင်း နဲ့
+[00:42.2 - 01:35.5] ကြိုရေ နေပါ
+[01:35.5 - 01:45.6] မယ်
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_49_transcription_20260908_172423.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_49_transcription_20260908_172423.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_49.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_49.mp3, file size: 0.45 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:00.5 - 00:42.2] လိပ်လိမ်မာမာနေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာ နဲရယ် ကြိုရေနေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ နားခဲချင်းနဲ့ ကြိုရေနေပါမယ်။ စင်ရာပေးတဲ့ အိမ်စာ ကောင်းကောင်းရေးမယ်ကွယ်။ မင်းရင်ဘာခင်ပြောဆိုတာနာထောင်မယ်။ ကိုယ့်ညီလိုတဲ့သူစီသွားရောက်ကြလာရဲ့း၊ နားခဲချင်းနဲ့ ကြိုရေနေပါမယ်။ လ Shortlyလိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာနဲရယ် ကြိုရေနေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ လိပ်လိမ်း မာမာ နေမယ်။ နားခဲချင်းနဲ့ ကြိုရေနေပါမယ်။စင်ရာ ပေးတဲ့အိမ်စာ ကောင်းကောင်း ရေးမယ်ကွယ်။ မင်းရင် ဘာခင် ပြောဆိုတာ နာထောင်မယ်။ ကိုယ့်ညီလိုတဲ့ သူစီ သွားရောက်ကြလာရင် နားခဲချင်း နဲ့
+[00:42.2 - 01:35.5] ကြိုရေ နေပါ
+[01:35.5 - 01:45.6] မယ်
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_49_transcription_20260908_172423.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_49_transcription_20260908_172423.txt

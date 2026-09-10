@@ -1,0 +1,30 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_62.mp3, file size: 0.31 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 80.7 seconds
+Language: mya
+Timestamped segments:
+[00:09.6 - 00:20.1] တာတားနဲ့ မင်းမီးရဲ့ ကစားပီပြင်ကွယ်၊ မင်းတို့ရဲ့ လ
+[00:20.1 - 00:33.6] က်ကို စေးရပါမယ်။ ဆံစากင်လက်ကွယ် စေးရပါမယ် အမြဲစာပြာသို့ငါ ပို့လိုက်စေရမယ်。လက်တစ်ချောင်းစီ ကို ସେଇଆ
+[00:33.6 - 01:16.1] ပါမယ်，
+[01:16.1 - 01:16.1] သေန်ရှင်အောင်ပို့တိုက်စေရမယ်। လက်တစ်ချောင်းစီ ကို ସେଇଆပါမယ်، သေန်ရှင်အောင်ပို့တိုက်စေရမယ်.
+[01:16.1 - 01:17.1] တာတားနဲ့ မင်းမီးရဲ့ ကစားပီ ပြင်ကွယ်、မင်းတို့ရဲ့ လက်ကို စေးရပါမယ်။ ဆံစากင်လက်ကွယ် စေးရပါမယ်။ အမြဲစာပြာသို့ ငါပို့တိုက်စေရမယ်။ လက်တစ်ချောင်းစီ ကို ସେଇଆပါမယ်、、သေန်ရှင်အောင်ပို့တိုက်စေရမယ်။ လက်တစ်ချောင်းစီ ကို ସେଇଆပါမယ်、သေန်ရှင်အောင်ပို့တိုက်စေရမယ်
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_62_transcription_20260908_172639.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_62_transcription_20260908_172639.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_62.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_62.mp3, file size: 0.31 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:09.6 - 00:20.1] တာတားနဲ့ မင်းမီးရဲ့ ကစားပီပြင်ကွယ်၊ မင်းတို့ရဲ့ လ
+[00:20.1 - 00:33.6] က်ကို စေးရပါမယ်။ ဆံစากင်လက်ကွယ် စေးရပါမယ် အမြဲစာပြာသို့ငါ ပို့လိုက်စေရမယ်。လက်တစ်ချောင်းစီ ကို ସେଇଆ
+[00:33.6 - 01:16.1] ပါမယ်，
+[01:16.1 - 01:16.1] သေန်ရှင်အောင်ပို့တိုက်စေရမယ်। လက်တစ်ချောင်းစီ ကို ସେଇଆပါမယ်، သေန်ရှင်အောင်ပို့တိုက်စေရမယ်.
+[01:16.1 - 01:17.1] တာတားနဲ့ မင်းမီးရဲ့ ကစားပီ ပြင်ကွယ်、မင်းတို့ရဲ့ လက်ကို စေးရပါမယ်။ ဆံစากင်လက်ကွယ် စေးရပါမယ်။ အမြဲစာပြာသို့ ငါပို့တိုက်စေရမယ်။ လက်တစ်ချောင်းစီ ကို ସେଇଆပါမယ်、、သေန်ရှင်အောင်ပို့တိုက်စေရမယ်။ လက်တစ်ချောင်းစီ ကို ସେଇଆပါမယ်、သေန်ရှင်အောင်ပို့တိုက်စေရမယ်
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_62_transcription_20260908_172639.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_62_transcription_20260908_172639.txt

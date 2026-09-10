@@ -1,0 +1,52 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_34.mp3, file size: 0.26 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 69.1 seconds
+Language: swa
+Timestamped segments:
+[00:12.9 - 00:15.3] Wa zo pangku tui ya ang.
+[00:15.3 - 00:18.1] Le ying ling e da zu mang.
+[00:18.1 - 00:21.2] Wa zo wa gau i pong pong.
+[00:21.2 - 00:23.9] Byu ziya i kui mu ga mang.
+[00:23.9 - 00:27.2] Dau do ye da bang ma la ye.
+[00:27.2 - 00:29.6] Yong zou pu kui la song juet.
+[00:29.6 - 00:32.7] Lai khe ja wa pyu pyu pa pa.
+[00:32.7 - 00:34.9] Wa zo pangku tuda.
+[00:34.9 - 00:38.3] Wa zo pangku tui ya ang.
+[00:38.3 - 00:41.2] Le ying ling e da zu mang.
+[00:41.2 - 00:44.2] Wa zo wa gau i pong pong.
+[00:44.2 - 00:46.8] Byu ziya i kui mu ga mang.
+[00:46.8 - 00:50.0] Dau do ye da bang ma la ye.
+[00:50.0 - 00:52.9] Yong zou pu kui la song juet.
+[00:52.9 - 00:55.6] Lai khe ja wa pyu pyu pa pa.
+[00:55.6 - 00:57.9] Wa zo pangku tuda.
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_34_transcription_20260908_172123.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_34_transcription_20260908_172123.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_34.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_34.mp3, file size: 0.26 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:12.9 - 00:15.3] Wa zo pangku tui ya ang.
+[00:15.3 - 00:18.1] Le ying ling e da zu mang.
+[00:18.1 - 00:21.2] Wa zo wa gau i pong pong.
+[00:21.2 - 00:23.9] Byu ziya i kui mu ga mang.
+[00:23.9 - 00:27.2] Dau do ye da bang ma la ye.
+[00:27.2 - 00:29.6] Yong zou pu kui la song juet.
+[00:29.6 - 00:32.7] Lai khe ja wa pyu pyu pa pa.
+[00:32.7 - 00:34.9] Wa zo pangku tuda.
+[00:34.9 - 00:38.3] Wa zo pangku tui ya ang.
+[00:38.3 - 00:41.2] Le ying ling e da zu mang.
+[00:41.2 - 00:44.2] Wa zo wa gau i pong pong.
+[00:44.2 - 00:46.8] Byu ziya i kui mu ga mang.
+[00:46.8 - 00:50.0] Dau do ye da bang ma la ye.
+[00:50.0 - 00:52.9] Yong zou pu kui la song juet.
+[00:52.9 - 00:55.6] Lai khe ja wa pyu pyu pa pa.
+[00:55.6 - 00:57.9] Wa zo pangku tuda.
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_34_transcription_20260908_172123.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_34_transcription_20260908_172123.txt

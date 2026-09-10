@@ -1,0 +1,26 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_40.mp3, file size: 0.27 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 69.6 seconds
+Language: mya
+Timestamped segments:
+[00:08.5 - 00:25.3] ထစ်
+[00:25.3 - 01:01.8] ပင်းနေ မ
+[01:01.8 - 01:01.8] င်းမေးနေ သာလို့သတ်တာနေ ထစ်ပင်းနေ မင်းမေးနေ တနီးလို့သတ်တာနေ ဘယ်မှာလဲ ဘယ်မှာလဲ ကစာဖို့ကစာဖို့ရယ် အချစ်မင်းလဲ ဘယ်မှာလဲ ကောင်းကန်ကစာဖို့ရယ် စာရယ်လဲ ဘယ်မှာလဲ အားရှိတဲ့စာစာ ဆိုင်မှာလား အိမ်မှာလား ကြွေးပြညားစာရမှာ ကစာဖို့နေရာ အားရှိတဲ့စာ စဉ်းဆင်ပေးကြပါ ကိုယ်လဲကြမ်းပါ စိတ်လဲကြမ်းပါ စဉ်းစားပေးကြပါ ကစာဖို့နေရာ အားရှိတဲ့စာ စဉ်းဆင်ပေးကြပါ ကိုယ်လဲကြမ်းပါ စိတ်လဲကြမ်းပါ စဉ်းစားပေးကြပါ
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_40_transcription_20260908_172317.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_40_transcription_20260908_172317.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_40.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_40.mp3, file size: 0.27 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:08.5 - 00:25.3] ထစ်
+[00:25.3 - 01:01.8] ပင်းနေ မ
+[01:01.8 - 01:01.8] င်းမေးနေ သာလို့သတ်တာနေ ထစ်ပင်းနေ မင်းမေးနေ တနီးလို့သတ်တာနေ ဘယ်မှာလဲ ဘယ်မှာလဲ ကစာဖို့ကစာဖို့ရယ် အချစ်မင်းလဲ ဘယ်မှာလဲ ကောင်းကန်ကစာဖို့ရယ် စာရယ်လဲ ဘယ်မှာလဲ အားရှိတဲ့စာစာ ဆိုင်မှာလား အိမ်မှာလား ကြွေးပြညားစာရမှာ ကစာဖို့နေရာ အားရှိတဲ့စာ စဉ်းဆင်ပေးကြပါ ကိုယ်လဲကြမ်းပါ စိတ်လဲကြမ်းပါ စဉ်းစားပေးကြပါ ကစာဖို့နေရာ အားရှိတဲ့စာ စဉ်းဆင်ပေးကြပါ ကိုယ်လဲကြမ်းပါ စိတ်လဲကြမ်းပါ စဉ်းစားပေးကြပါ
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_40_transcription_20260908_172317.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_40_transcription_20260908_172317.txt

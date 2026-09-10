@@ -1,0 +1,46 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_35.mp3, file size: 0.38 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 100.5 seconds
+Language: spa
+Timestamped segments:
+[00:12.7 - 00:20.6] O mia mama pô ni dlô, dlô txé â né ti lô ni, su pô â né ti ja ni.
+[00:20.6 - 00:26.2] La, la, la dlô yâo, la, la, la nlê yâo.
+[00:26.2 - 00:30.6] Tô li nga yâo su pô â né waï ti laï tô.
+[00:30.6 - 00:32.5] Pô, pô, pô, pô, pô.
+[00:32.5 - 00:32.5] Pô, pô, pô, pô, pô.
+[00:32.5 - 00:36.0] Pô, pô, pô, pô, pô, pôôô.
+[00:36.0 - 00:53.3] O
+[00:53.3 - 01:01.3] mia mama pô ni dlô, dlô txé â né ti lô ni, su pô â né ti ja ni.
+[01:01.3 - 01:06.7] La, la, la dlô yâo, la, la, la nlê yâo.
+[01:06.7 - 01:11.2] Tô li nga yâo su pô â né waï ti laï tô.
+[01:11.2 - 01:13.3] Pô, pô, pô, pô, pô.
+[01:13.3 - 01:13.3] Pô, pô, pô, pô, pô.
+[01:13.3 - 01:13.5] Pô, pô, pô, pô, pô, pôôô.
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_35_transcription_20260908_172128.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_35_transcription_20260908_172128.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_35.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_35.mp3, file size: 0.38 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:12.7 - 00:20.6] O mia mama pô ni dlô, dlô txé â né ti lô ni, su pô â né ti ja ni.
+[00:20.6 - 00:26.2] La, la, la dlô yâo, la, la, la nlê yâo.
+[00:26.2 - 00:30.6] Tô li nga yâo su pô â né waï ti laï tô.
+[00:30.6 - 00:32.5] Pô, pô, pô, pô, pô.
+[00:32.5 - 00:32.5] Pô, pô, pô, pô, pô.
+[00:32.5 - 00:36.0] Pô, pô, pô, pô, pô, pôôô.
+[00:36.0 - 00:53.3] O
+[00:53.3 - 01:01.3] mia mama pô ni dlô, dlô txé â né ti lô ni, su pô â né ti ja ni.
+[01:01.3 - 01:06.7] La, la, la dlô yâo, la, la, la nlê yâo.
+[01:06.7 - 01:11.2] Tô li nga yâo su pô â né waï ti laï tô.
+[01:11.2 - 01:13.3] Pô, pô, pô, pô, pô.
+[01:13.3 - 01:13.3] Pô, pô, pô, pô, pô.
+[01:13.3 - 01:13.5] Pô, pô, pô, pô, pô, pôôô.
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_35_transcription_20260908_172128.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_35_transcription_20260908_172128.txt

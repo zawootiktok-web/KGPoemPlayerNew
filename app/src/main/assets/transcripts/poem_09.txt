@@ -1,0 +1,62 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_09.mp3, file size: 0.37 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 97.3 seconds
+Language: spa
+Timestamped segments:
+[00:10.8 - 00:15.5] Leñéñeñ, pipini gané.
+[00:15.5 - 00:18.6] Le pien tai taba pide.
+[00:18.6 - 00:21.2] Oji lo pide.
+[00:21.2 - 00:24.2] Oji lo pide.
+[00:24.2 - 00:26.7] Shega tai pian lo.
+[00:26.7 - 00:29.4] Anaku yeñe yeñe.
+[00:29.4 - 00:32.0] Anaka tai pian lo.
+[00:32.0 - 00:35.1] Shegu yeñe yeñe.
+[00:35.1 - 00:39.2] Leñeñeñ, pipini gané.
+[00:39.2 - 00:42.0] Leñeñeñ.
+[00:42.0 - 00:54.8] Leñeñeñ,
+[00:54.8 - 00:58.0] pipini gané.
+[00:58.0 - 01:01.1] Le pien tai toba pide.
+[01:01.1 - 01:03.9] Oji lo pide.
+[01:03.9 - 01:06.6] Oji lo pide.
+[01:06.6 - 01:09.4] Shega tai pian lo.
+[01:09.4 - 01:12.4] Anaku yeñe yeñe.
+[01:12.4 - 01:14.6] Anaka tai pian lo.
+[01:14.6 - 01:17.7] Shegu yeñe yeñe.
+[01:17.7 - 01:22.3] Leñeñeñ, pipini gané.
+[01:22.3 - 01:24.5] Leñeñeñ.
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_09_transcription_20260908_171613.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_09_transcription_20260908_171613.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_09.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_09.mp3, file size: 0.37 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:10.8 - 00:15.5] Leñéñeñ, pipini gané.
+[00:15.5 - 00:18.6] Le pien tai taba pide.
+[00:18.6 - 00:21.2] Oji lo pide.
+[00:21.2 - 00:24.2] Oji lo pide.
+[00:24.2 - 00:26.7] Shega tai pian lo.
+[00:26.7 - 00:29.4] Anaku yeñe yeñe.
+[00:29.4 - 00:32.0] Anaka tai pian lo.
+[00:32.0 - 00:35.1] Shegu yeñe yeñe.
+[00:35.1 - 00:39.2] Leñeñeñ, pipini gané.
+[00:39.2 - 00:42.0] Leñeñeñ.
+[00:42.0 - 00:54.8] Leñeñeñ,
+[00:54.8 - 00:58.0] pipini gané.
+[00:58.0 - 01:01.1] Le pien tai toba pide.
+[01:01.1 - 01:03.9] Oji lo pide.
+[01:03.9 - 01:06.6] Oji lo pide.
+[01:06.6 - 01:09.4] Shega tai pian lo.
+[01:09.4 - 01:12.4] Anaku yeñe yeñe.
+[01:12.4 - 01:14.6] Anaka tai pian lo.
+[01:14.6 - 01:17.7] Shegu yeñe yeñe.
+[01:17.7 - 01:22.3] Leñeñeñ, pipini gané.
+[01:22.3 - 01:24.5] Leñeñeñ.
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_09_transcription_20260908_171613.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_09_transcription_20260908_171613.txt

@@ -1,0 +1,30 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_18.mp3, file size: 0.27 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 71.1 seconds
+Language: mya
+Timestamped segments:
+[00:07.5 - 00:26.2] ပျို့ရွတ်စိတ်ကလေး အချိန်မဖြုန်းမှား ပြည်ညီပြည်တော့အိပ်မနေပါ ဘ
+[00:26.2 - 00:40.9] ယ်ညာဘယ်ညာတန်းစီကာ ကြိုကြိုဆန့်ဆန်လုပ်လုပ်မှာ။ ကျွန်ုပ်တို့လည်းအချိန်မဖြုံးမာ ပြည်ညီပြည်တော့အိပ်မနေပါ။ ဘယ်ညာဘယ်ညာ တန်းစီးတာ ကျိုးကျွံစက်စက် လုပ်လုပ်ပါ။ ပျို့
+[00:40.9 - 00:51.5] ရွတ် စိတ်ကလေး အချိန် မ
+[00:51.5 - 01:03.8] ဖြုန်းမှား ပြည်ကြီးပြည်တော့ အိမ်မနေပါဘဲ。 ညာဘယ်ညာ တန်းစီက ချိုချိုဇပ်ဇပ် လုပ်လုပ်ပါ။ကျွန်ုပ်တို့ လည်း အချိန်မဖျを変更မှ'ပြည့်မြိ full
+[01:03.8 - 01:11.1] stops ပြီးတော့အိပ်မနီးပါ၊ဘယ်မျှဘယ်မျှတမ်းစီးကားကြိုကြိုစားစားလုပ်လုပ်မှ '।
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_18_transcription_20260908_171909.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_18_transcription_20260908_171909.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_18.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_18.mp3, file size: 0.27 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:07.5 - 00:26.2] ပျို့ရွတ်စိတ်ကလေး အချိန်မဖြုန်းမှား ပြည်ညီပြည်တော့အိပ်မနေပါ ဘ
+[00:26.2 - 00:40.9] ယ်ညာဘယ်ညာတန်းစီကာ ကြိုကြိုဆန့်ဆန်လုပ်လုပ်မှာ။ ကျွန်ုပ်တို့လည်းအချိန်မဖြုံးမာ ပြည်ညီပြည်တော့အိပ်မနေပါ။ ဘယ်ညာဘယ်ညာ တန်းစီးတာ ကျိုးကျွံစက်စက် လုပ်လုပ်ပါ။ ပျို့
+[00:40.9 - 00:51.5] ရွတ် စိတ်ကလေး အချိန် မ
+[00:51.5 - 01:03.8] ဖြုန်းမှား ပြည်ကြီးပြည်တော့ အိမ်မနေပါဘဲ。 ညာဘယ်ညာ တန်းစီက ချိုချိုဇပ်ဇပ် လုပ်လုပ်ပါ။ကျွန်ုပ်တို့ လည်း အချိန်မဖျを変更မှ'ပြည့်မြိ full
+[01:03.8 - 01:11.1] stops ပြီးတော့အိပ်မနီးပါ၊ဘယ်မျှဘယ်မျှတမ်းစီးကားကြိုကြိုစားစားလုပ်လုပ်မှ '।
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_18_transcription_20260908_171909.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_18_transcription_20260908_171909.txt

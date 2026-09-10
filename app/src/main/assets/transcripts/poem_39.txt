@@ -1,0 +1,30 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_39.mp3, file size: 0.37 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 98.0 seconds
+Language: mya
+Timestamped segments:
+[00:13.0 - 00:25.1] တော
+[00:25.1 - 01:00.8] င်
+[01:00.8 - 01:27.0] မော်တောင်မောတောင်မောတဲ့
+[01:27.0 - 01:32.8] ကြမဲ ကျောဘိုးအိတ်ကိုခိုင်အောင်လွှဲ။ တောင်မော်တောင်မောတောင်မောတဲ့ကြမဲ သေရင်းလွားရင်းတဲ့ကြမဲ။ တောင်မော်တောင်မောတောင်မောတဲ့ကြမဲ ကျောဘိုးအိပ်ကို ခိုင်အောင်လွဲ။ တောင်မော်တောင်မော်တောင်မို့တဲ့ကြမယ် ရင်းရင် လွန်းရင်းနဲ့ ကြားမယ်。ရေဗူးလည်းပါတယ် ဖနတ်လည်း ပါတယ် အုတ်ထုပ်ကြီး ဆောင်းလို့ရယ်။ ကဒေါင်မြှောက်အောင်ကြိုက်ခံရက် ရေးကျမယ် ပြေးကြမယ်ပြေးကြမယ်ကွယ်.
+[01:32.8 - 01:32.8] ချိုလဲတဲ့သူလဲ ဒုပျဲတဲ့လူပျဲ ဒါပေမဲ့လဲပြန် ထာ့ထာ့ထာ့ထာ့ထာ့။ တောင်မော်တောင်မော်တောင်မောတဲ့ကြမဲ ကျောဘိုးအိတ်ကိုခိုင်အောင်လွှဲ။ တောင်မော်တောင်မော်တောင်မောတဲ့ကြမဲ သေရင်းလွားရင်းတဲ့ကြမဲ।
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_39_transcription_20260908_172311.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_39_transcription_20260908_172311.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_39.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_39.mp3, file size: 0.37 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:13.0 - 00:25.1] တော
+[00:25.1 - 01:00.8] င်
+[01:00.8 - 01:27.0] မော်တောင်မောတောင်မောတဲ့
+[01:27.0 - 01:32.8] ကြမဲ ကျောဘိုးအိတ်ကိုခိုင်အောင်လွှဲ။ တောင်မော်တောင်မောတောင်မောတဲ့ကြမဲ သေရင်းလွားရင်းတဲ့ကြမဲ။ တောင်မော်တောင်မောတောင်မောတဲ့ကြမဲ ကျောဘိုးအိပ်ကို ခိုင်အောင်လွဲ။ တောင်မော်တောင်မော်တောင်မို့တဲ့ကြမယ် ရင်းရင် လွန်းရင်းနဲ့ ကြားမယ်。ရေဗူးလည်းပါတယ် ဖနတ်လည်း ပါတယ် အုတ်ထုပ်ကြီး ဆောင်းလို့ရယ်။ ကဒေါင်မြှောက်အောင်ကြိုက်ခံရက် ရေးကျမယ် ပြေးကြမယ်ပြေးကြမယ်ကွယ်.
+[01:32.8 - 01:32.8] ချိုလဲတဲ့သူလဲ ဒုပျဲတဲ့လူပျဲ ဒါပေမဲ့လဲပြန် ထာ့ထာ့ထာ့ထာ့ထာ့။ တောင်မော်တောင်မော်တောင်မောတဲ့ကြမဲ ကျောဘိုးအိတ်ကိုခိုင်အောင်လွှဲ။ တောင်မော်တောင်မော်တောင်မောတဲ့ကြမဲ သေရင်းလွားရင်းတဲ့ကြမဲ।
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_39_transcription_20260908_172311.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_39_transcription_20260908_172311.txt

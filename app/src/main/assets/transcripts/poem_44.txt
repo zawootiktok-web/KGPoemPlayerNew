@@ -1,0 +1,28 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_44.mp3, file size: 0.39 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 102.1 seconds
+Language: mya
+Timestamped segments:
+[00:11.1 - 00:25.2] အငြိမ်းသမာလေး ထောင်ကိုဝေ အကာကောင်းပါဘဲ လူပျက်တွေက ကိုယ်ရွှေမြောက် အမင်းငေါက်တောက်တောက် နော
+[00:25.2 - 00:46.9] င်လိုက်ပြောင်လိုက် ပျော်စရာ စင်ညီပွဲကြီးလား နွေ
+[00:46.9 - 01:36.3] ရာသီမိုးအိုက်စက်စက် စင်ညီရက်တောင်ခ မတ်တပ်ရပ်တဲ့ကိုယ်ရွှေရုံ နားကာဆွေးဆွေးခုံ မကြုံဖူးတဲ့ဒီလိုပွဲ ရွှေကျားတဲ့ဟဲဟဲ အ
+[01:36.3 - 01:36.8] ငြိမ်းသမာလေး ထောင်ကိုဝေ အကာကောင်းပါဘဲ လူပျက်တွေက ကိုယ်ရွှေမြောက် အမင်းငေါက်တောက်တောက် နောင်လိုက်ပြောင်လိုက် ပျော်စရာ စင်ညီပွဲကြီးလား နွေရာသီမိုးအိုက်စက်စက် စင်ညီရက်တောင်ခ မတ်တပ်ရပ်တဲ့ကိုယ်ရွှေရုံ နားကာဆွေးဆွေးခုံ မကြုံဖူးတဲ့ဒီလိုပွဲ ရွှေကျားတဲ့ဟဲဟဲ
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_44_transcription_20260908_172329.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_44_transcription_20260908_172329.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_44.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_44.mp3, file size: 0.39 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:11.1 - 00:25.2] အငြိမ်းသမာလေး ထောင်ကိုဝေ အကာကောင်းပါဘဲ လူပျက်တွေက ကိုယ်ရွှေမြောက် အမင်းငေါက်တောက်တောက် နော
+[00:25.2 - 00:46.9] င်လိုက်ပြောင်လိုက် ပျော်စရာ စင်ညီပွဲကြီးလား နွေ
+[00:46.9 - 01:36.3] ရာသီမိုးအိုက်စက်စက် စင်ညီရက်တောင်ခ မတ်တပ်ရပ်တဲ့ကိုယ်ရွှေရုံ နားကာဆွေးဆွေးခုံ မကြုံဖူးတဲ့ဒီလိုပွဲ ရွှေကျားတဲ့ဟဲဟဲ အ
+[01:36.3 - 01:36.8] ငြိမ်းသမာလေး ထောင်ကိုဝေ အကာကောင်းပါဘဲ လူပျက်တွေက ကိုယ်ရွှေမြောက် အမင်းငေါက်တောက်တောက် နောင်လိုက်ပြောင်လိုက် ပျော်စရာ စင်ညီပွဲကြီးလား နွေရာသီမိုးအိုက်စက်စက် စင်ညီရက်တောင်ခ မတ်တပ်ရပ်တဲ့ကိုယ်ရွှေရုံ နားကာဆွေးဆွေးခုံ မကြုံဖူးတဲ့ဒီလိုပွဲ ရွှေကျားတဲ့ဟဲဟဲ
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_44_transcription_20260908_172329.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_44_transcription_20260908_172329.txt

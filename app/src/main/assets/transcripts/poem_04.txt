@@ -1,0 +1,84 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_04.mp3, file size: 0.59 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 154.4 seconds
+Language: epo
+Timestamped segments:
+[00:10.3 - 00:18.2] She go to lamba, na go so laipa, ko da bale lese ku yi ba.
+[00:18.2 - 00:27.9] She go to lamba, na go so laipa, ko li dong lo ku yi yai me ba.
+[00:27.9 - 00:38.4] She go to lamba, na go so laipa, ko da bale lese ku yi ba.
+[00:38.4 - 00:47.0] She go to lamba, na go so laipa, ko li dong lo ku yi yai me ba.
+[00:47.0 - 00:50.6] Sha la la la la.
+[00:50.6 - 00:53.1] Sha la la la la.
+[00:53.1 - 00:55.5] Sha la la la la.
+[00:55.5 - 00:57.9] Ku yi ba.
+[00:57.9 - 01:00.6] Sha la la la la.
+[01:00.6 - 01:02.5] Sha la la la la.
+[01:02.5 - 01:05.5] Sha la la la la.
+[01:05.5 - 01:09.7] Eh, ku yi da ba.
+[01:09.7 - 01:19.1] She go to lamba, na go so laipa, ko da bale lese ku yi ba.
+[01:19.1 - 01:29.2] She go to lamba, na go so laipa, ko li dong lo ku yi yai me ba.
+[01:29.2 - 01:38.6] She go to lamba, na go so laipa, ko da bale lese ku yi ba.
+[01:38.6 - 01:48.2] She go to lamba, na go so laipa, ko li dong lo ku yi yai me ba.
+[01:48.2 - 01:51.9] Sha la la la la.
+[01:51.9 - 01:54.5] Sha la la la la.
+[01:54.5 - 01:57.1] Sha la la la la.
+[01:57.1 - 01:58.8] Ku yi ba.
+[01:58.8 - 02:02.0] Sha la la la la.
+[02:02.0 - 02:04.3] Sha la la la la.
+[02:04.3 - 02:06.9] Sha la la la la.
+[02:06.9 - 02:10.4] Eh, ku yi da ba.
+[02:10.4 - 02:13.8] Sha la la la la.
+[02:13.8 - 02:16.5] Sha la la la la.
+[02:16.5 - 02:19.0] Sha la la la la.
+[02:19.0 - 02:21.0] Ku yi ba.
+[02:21.0 - 02:23.7] Sha la la la la.
+[02:23.7 - 02:26.4] Sha la la la la.
+[02:26.4 - 02:28.8] Sha la la la la.
+[02:28.8 - 02:32.7] Eh, ku yi da ba.
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_04_transcription_20260908_171508.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_04_transcription_20260908_171508.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_04.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_04.mp3, file size: 0.59 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:10.3 - 00:18.2] She go to lamba, na go so laipa, ko da bale lese ku yi ba.
+[00:18.2 - 00:27.9] She go to lamba, na go so laipa, ko li dong lo ku yi yai me ba.
+[00:27.9 - 00:38.4] She go to lamba, na go so laipa, ko da bale lese ku yi ba.
+[00:38.4 - 00:47.0] She go to lamba, na go so laipa, ko li dong lo ku yi yai me ba.
+[00:47.0 - 00:50.6] Sha la la la la.
+[00:50.6 - 00:53.1] Sha la la la la.
+[00:53.1 - 00:55.5] Sha la la la la.
+[00:55.5 - 00:57.9] Ku yi ba.
+[00:57.9 - 01:00.6] Sha la la la la.
+[01:00.6 - 01:02.5] Sha la la la la.
+[01:02.5 - 01:05.5] Sha la la la la.
+[01:05.5 - 01:09.7] Eh, ku yi da ba.
+[01:09.7 - 01:19.1] She go to lamba, na go so laipa, ko da bale lese ku yi ba.
+[01:19.1 - 01:29.2] She go to lamba, na go so laipa, ko li dong lo ku yi yai me ba.
+[01:29.2 - 01:38.6] She go to lamba, na go so laipa, ko da bale lese ku yi ba.
+[01:38.6 - 01:48.2] She go to lamba, na go so laipa, ko li dong lo ku yi yai me ba.
+[01:48.2 - 01:51.9] Sha la la la la.
+[01:51.9 - 01:54.5] Sha la la la la.
+[01:54.5 - 01:57.1] Sha la la la la.
+[01:57.1 - 01:58.8] Ku yi ba.
+[01:58.8 - 02:02.0] Sha la la la la.
+[02:02.0 - 02:04.3] Sha la la la la.
+[02:04.3 - 02:06.9] Sha la la la la.
+[02:06.9 - 02:10.4] Eh, ku yi da ba.
+[02:10.4 - 02:13.8] Sha la la la la.
+[02:13.8 - 02:16.5] Sha la la la la.
+[02:16.5 - 02:19.0] Sha la la la la.
+[02:19.0 - 02:21.0] Ku yi ba.
+[02:21.0 - 02:23.7] Sha la la la la.
+[02:23.7 - 02:26.4] Sha la la la la.
+[02:26.4 - 02:28.8] Sha la la la la.
+[02:28.8 - 02:32.7] Eh, ku yi da ba.
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_04_transcription_20260908_171508.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_04_transcription_20260908_171508.txt

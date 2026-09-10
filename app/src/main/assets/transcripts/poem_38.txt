@@ -1,0 +1,26 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_38.mp3, file size: 0.48 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 125.0 seconds
+Language: mya
+Timestamped segments:
+[00:12.8 - 00:50.9] သမင်စီစံစားရင်ကွယ် ခေါ့အားဖြစ်စေမယ်။ ဝါယာဝင်သီးရ စားရင်းကွယ် မျက်ဆီအားကောင်းမယ်။ ဆေးရောင်အရွက်စာရင်းကွယ် ရောဂါခင်လိမ့်မယ် အလုံးစုအောင်စားမှ ကွယ်ကျန်းမာကြလိမ့်မယ်။ ငပ္ပါကွယ်ငပ္ပါကွယ် တာတို့သမီးတို့ရယ်၊ စားပါမယ့်် စားပါမယ့်် အသားငါးအသီး အရွက်ကွဲ。သမင်စီစံစားရင်းကွယ် ခေါ့အား ဖြစ်စေမယ်။ဝါယာဝင်သီးရ စားရင်းကွယ် မျက်ဆီအားကောင်းမယ်။ ဆေးရောင်အရွက်စာရင်းကွယ်ရောဂါခင်း လိမ့်မယ်။ အလုံးစုအောင်စားမှကွယ် ကျန်းမာကြလိမ့်မယ်။ ငပ္ပါကွယ် ငပ္ပါကွယ်တာတို့သမီးတို့ရယ်၊ စားပါမယ့်် စားပါမယ့်် အသားငါးအသီး အရွက်ကွဲ။ ငပ္ပါကွယ် ငပ္ပါကွယ် တာတို့သမီးတို့ရယ်၊ စားပါမယ့်် စားပါမယ့်် အသားငါးအသီး အရွက်ကွဲ။ ငပ္ပါကွယ် ငပ္ပါကွယ် တာတို့သမီးတို့ရယ်၊ စားပါမယ့်် စားပါမယ့်် အသားငါးအသီး အ
+[01:01.3 - 01:12.3] ရွ
+[01:12.3 - 01:12.3] က်ကွဲ。
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_38_transcription_20260908_172232.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_38_transcription_20260908_172232.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_38.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_38.mp3, file size: 0.48 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:12.8 - 00:50.9] သမင်စီစံစားရင်ကွယ် ခေါ့အားဖြစ်စေမယ်။ ဝါယာဝင်သီးရ စားရင်းကွယ် မျက်ဆီအားကောင်းမယ်။ ဆေးရောင်အရွက်စာရင်းကွယ် ရောဂါခင်လိမ့်မယ် အလုံးစုအောင်စားမှ ကွယ်ကျန်းမာကြလိမ့်မယ်။ ငပ္ပါကွယ်ငပ္ပါကွယ် တာတို့သမီးတို့ရယ်၊ စားပါမယ့်် စားပါမယ့်် အသားငါးအသီး အရွက်ကွဲ。သမင်စီစံစားရင်းကွယ် ခေါ့အား ဖြစ်စေမယ်။ဝါယာဝင်သီးရ စားရင်းကွယ် မျက်ဆီအားကောင်းမယ်။ ဆေးရောင်အရွက်စာရင်းကွယ်ရောဂါခင်း လိမ့်မယ်။ အလုံးစုအောင်စားမှကွယ် ကျန်းမာကြလိမ့်မယ်။ ငပ္ပါကွယ် ငပ္ပါကွယ်တာတို့သမီးတို့ရယ်၊ စားပါမယ့်် စားပါမယ့်် အသားငါးအသီး အရွက်ကွဲ။ ငပ္ပါကွယ် ငပ္ပါကွယ် တာတို့သမီးတို့ရယ်၊ စားပါမယ့်် စားပါမယ့်် အသားငါးအသီး အရွက်ကွဲ။ ငပ္ပါကွယ် ငပ္ပါကွယ် တာတို့သမီးတို့ရယ်၊ စားပါမယ့်် စားပါမယ့်် အသားငါးအသီး အ
+[01:01.3 - 01:12.3] ရွ
+[01:12.3 - 01:12.3] က်ကွဲ。
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_38_transcription_20260908_172232.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_38_transcription_20260908_172232.txt

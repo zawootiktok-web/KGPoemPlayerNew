@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="84dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginBottom="4dp"
+    android:background="@drawable/bg_round"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingStart="10dp"
+    android:paddingTop="8dp"
+    android:paddingEnd="8dp"
+    android:paddingBottom="8dp">
+
+    <TextView
+        android:id="@+id/number"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:background="@drawable/bg_number"
+        android:gravity="center"
+        android:textColor="@color/purple"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="11dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@color/ink"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@string/tap_to_play"
+            android:textColor="@color/gray"
+            android:textSize="11sp" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/fav"
+        android:layout_width="38dp"
+        android:layout_height="42dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/add_favorite"
+        android:padding="7dp"
+        android:src="@android:drawable/btn_star_big_off" />
+
+    <ImageButton
+        android:id="@+id/karaoke"
+        android:layout_width="38dp"
+        android:layout_height="42dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/open_karaoke"
+        android:padding="8dp"
+        android:src="@android:drawable/ic_btn_speak_now"
+        app:tint="@color/purple" />
+
+    <ImageButton
+        android:id="@+id/play"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:backgroundTint="@color/yellow"
+        android:contentDescription="@string/play"
+        android:padding="9dp"
+        android:src="@android:drawable/ic_media_play"
+        app:tint="@color/ink" />
+
+</LinearLayout>

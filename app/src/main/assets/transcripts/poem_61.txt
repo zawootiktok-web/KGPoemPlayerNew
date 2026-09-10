@@ -1,0 +1,26 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_61.mp3, file size: 0.20 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 52.0 seconds
+Language: mya
+Timestamped segments:
+[00:09.5 - 00:21.0] လိပ်ပြာလေးတွေ ဝဲပျံနေ ပန်းကွင်းကျမ ပျော်မြူးနေ。တိုခါး
+[00:21.0 - 00:31.9] လေးများလည်း လှမ်းမြောက်လို့ရယ် လိပ်ပြာလေး လိုကာကြမယ်။ လိပ်ပြာလေးတွေ
+[00:31.9 - 00:40.8] ဝဲပျံနေ ပန်းကွင်းကျမ ပျော်မြူးနေ。တိုခါးလေးများလည်း လှမ်းမြောက်လို့ရယ် လိပ်ပြာလေး လိုကာကြမယ်။
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_61_transcription_20260908_172605.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_61_transcription_20260908_172605.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_61.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_61.mp3, file size: 0.20 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:09.5 - 00:21.0] လိပ်ပြာလေးတွေ ဝဲပျံနေ ပန်းကွင်းကျမ ပျော်မြူးနေ。တိုခါး
+[00:21.0 - 00:31.9] လေးများလည်း လှမ်းမြောက်လို့ရယ် လိပ်ပြာလေး လိုကာကြမယ်။ လိပ်ပြာလေးတွေ
+[00:31.9 - 00:40.8] ဝဲပျံနေ ပန်းကွင်းကျမ ပျော်မြူးနေ。တိုခါးလေးများလည်း လှမ်းမြောက်လို့ရယ် လိပ်ပြာလေး လိုကာကြမယ်။
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_61_transcription_20260908_172605.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_61_transcription_20260908_172605.txt

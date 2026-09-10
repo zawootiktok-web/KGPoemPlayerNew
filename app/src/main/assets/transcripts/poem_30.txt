@@ -1,0 +1,26 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_30.mp3, file size: 0.24 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 62.0 seconds
+Language: mya
+Timestamped segments:
+[00:06.5 - 00:26.0] ရွှေနဲ့လည်းလုပ်မရတဲ့လည်း ငွေနဲ့လည်းလုပ်မရတဲ့လည်း ရွှေတွေငွေတွေဘယ်
+[00:26.0 - 00:55.0] လောက်ပေးပေးလည်းလုပ်မရတဲ့လည်း အလုပ်များလုပ်ရင်ကွယ် ဘာမဆိုဖြစ်နိုင်တယ် လိုအပ်တဲ့
+[00:55.0 - 00:55.0] အခါဆိုရင်ကွယ် ကဆိုလည်းကာနိုင်တယ် ရွှေနဲ့လည်းလုပ်မရတဲ့လည်း ငွေနဲ့လည်းလုပ်မရတဲ့လည်း ရွှေတွေငွေတွေဘယ်လောက်ပေးပေးလည်းလုပ်မရတဲ့လည်း အလုပ်များလုပ်ရင်ကွယ် ဘာမဆိုဖြစ်နိုင်တယ် လိုအပ်တဲ့အခါဆိုရင်ကွယ် ကဆိုလည်းကာနိုင်တယ်
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_30_transcription_20260908_172102.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_30_transcription_20260908_172102.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_30.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_30.mp3, file size: 0.24 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:06.5 - 00:26.0] ရွှေနဲ့လည်းလုပ်မရတဲ့လည်း ငွေနဲ့လည်းလုပ်မရတဲ့လည်း ရွှေတွေငွေတွေဘယ်
+[00:26.0 - 00:55.0] လောက်ပေးပေးလည်းလုပ်မရတဲ့လည်း အလုပ်များလုပ်ရင်ကွယ် ဘာမဆိုဖြစ်နိုင်တယ် လိုအပ်တဲ့
+[00:55.0 - 00:55.0] အခါဆိုရင်ကွယ် ကဆိုလည်းကာနိုင်တယ် ရွှေနဲ့လည်းလုပ်မရတဲ့လည်း ငွေနဲ့လည်းလုပ်မရတဲ့လည်း ရွှေတွေငွေတွေဘယ်လောက်ပေးပေးလည်းလုပ်မရတဲ့လည်း အလုပ်များလုပ်ရင်ကွယ် ဘာမဆိုဖြစ်နိုင်တယ် လိုအပ်တဲ့အခါဆိုရင်ကွယ် ကဆိုလည်းကာနိုင်တယ်
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_30_transcription_20260908_172102.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_30_transcription_20260908_172102.txt

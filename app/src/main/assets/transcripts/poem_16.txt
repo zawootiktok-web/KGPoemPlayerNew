@@ -1,0 +1,28 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_16.mp3, file size: 0.31 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 81.0 seconds
+Language: mya
+Timestamped segments:
+[00:05.5 - 00:15.6] တောင်ညင်းမောင်းလေး ပူပူနွေး နန်းတောင်နာမွှေးမွှေး။ အု
+[00:15.6 - 00:43.8] န်းနှီးဘွေ့ဘွေ့ ထည့်ရင်ခွဲ သားသားကြိုက်ပါတယ်ရယ်。 တောင်ညင်းမောင်းထဲ မာမာလည် များများထည့်ပါမနေရယ်။ လှို
+[00:43.8 - 01:14.1] စိမ်းလေးရဲ့အရှေ့မှာ မာမာရောက်တဲ့အခါ စည်းဆိုင်ပြင်လို့ တောက်ကိုချ သားသာစားမယ်ဗျ။
+[01:14.1 - 01:20.6] တောင်ညင်းမောင်းလေး ပူပူနွေး ନန်းတောင်နာမွှေးမွှေး။ အုန်းနှီးဘွေ့ဘွေ့ ထည့်ရင်ခွဲ သားသားကြိုက်ပါတယ်ရယ်। တောင်ညင်းမောင်းထဲ မာမာလည် များများထည့်ပါမနေရယ်။ လှိုစိမ်းလေးရဲ့အရှေ့မှာ မာမာရောက်တဲ့အခါ စည်းဆိုင်ပြင်လို့ တောက်ကိုချ သားသာစားမယ်ဗျာ။ စည်းဆိုင်ပြင်လို့ တောက်ကိုချ သားသာစားမယ်ဗျာ။ စည်းဆိုင်ပြင်လို့ တောက်ကိုချ သားသာစားမယ်ဗျာ။
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_16_transcription_20260908_171754.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_16_transcription_20260908_171754.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_16.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_16.mp3, file size: 0.31 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:05.5 - 00:15.6] တောင်ညင်းမောင်းလေး ပူပူနွေး နန်းတောင်နာမွှေးမွှေး။ အု
+[00:15.6 - 00:43.8] န်းနှီးဘွေ့ဘွေ့ ထည့်ရင်ခွဲ သားသားကြိုက်ပါတယ်ရယ်。 တောင်ညင်းမောင်းထဲ မာမာလည် များများထည့်ပါမနေရယ်။ လှို
+[00:43.8 - 01:14.1] စိမ်းလေးရဲ့အရှေ့မှာ မာမာရောက်တဲ့အခါ စည်းဆိုင်ပြင်လို့ တောက်ကိုချ သားသာစားမယ်ဗျ။
+[01:14.1 - 01:20.6] တောင်ညင်းမောင်းလေး ပူပူနွေး ନန်းတောင်နာမွှေးမွှေး။ အုန်းနှီးဘွေ့ဘွေ့ ထည့်ရင်ခွဲ သားသားကြိုက်ပါတယ်ရယ်। တောင်ညင်းမောင်းထဲ မာမာလည် များများထည့်ပါမနေရယ်။ လှိုစိမ်းလေးရဲ့အရှေ့မှာ မာမာရောက်တဲ့အခါ စည်းဆိုင်ပြင်လို့ တောက်ကိုချ သားသာစားမယ်ဗျာ။ စည်းဆိုင်ပြင်လို့ တောက်ကိုချ သားသာစားမယ်ဗျာ။ စည်းဆိုင်ပြင်လို့ တောက်ကိုချ သားသာစားမယ်ဗျာ။
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_16_transcription_20260908_171754.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_16_transcription_20260908_171754.txt

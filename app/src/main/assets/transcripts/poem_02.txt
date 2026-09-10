@@ -1,0 +1,22 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_02.mp3, file size: 0.44 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 115.7 seconds
+Language: mya
+Timestamped segments:
+[01:49.9 - 01:55.5] ဒိုများငယ်သောလည် အလုပ်လုပ်တတ်တယ် ဘယ်အလုပ်မဆို ဒိုများလုပ်တတ်တယ်။ ဒိုများငယ်သောလည် အလုပ်လုပ်တတ်တယ် ဘယ်အလုပ်မဆို ဒိုများလုပ်တတ်တယ်။ ရေခပ်ပေး ရေခပ်ပေး ရေခပ်ပေးတတ်တယ်။ ဟင်းရွက်ချွေဟင်းရွက်ချွေ ဟင်းရွက်ချွေတတ်တယ်။ ပစ္စည်းလဲပစ္စည်းလဲ ပစ္စည်းလည်းတတ်သည် ဒို့များ ငယ်သော လည်း အလုပ် လုပ်တတ်သည်။ ဒိုများငယ်သောလည် အလုပ်လုပ်တတ်တယ်ဘယ်အလုပ်မဆို ဒိုများလုပ်တတ်တယ် ဒိုများငယ်သောလည် အလုပ်လုပ်တတ်တယ် ဘယ်အလုပ်မဆို ဒိုများလုပ်တတ်တယ်ရေခပ်ပေး ရေခပ်ပေး ရေခပ်ပေးတတ်တယ် ဟင်းရွက်ချွေ ဟင်းရက်ချွေ ဟင်းရွက် ချွေတတ်တယ် ပစ္စည်းလဲ ပစ္စည်းလဲ ပစ္စည်းလည်းတတ်တယ် ဒိုများငယ်သော်လည်း အလုပ်လုပ်တတ်တယ်। ရေခတ်ပေးရေး ခတ်ပေး ရေခတ်ပေးတတ်တယ် ဟင်းရွက်ချွေ ဟင်းရွက်ချွေ ဟင်းရွက်ချွေးတတ်တယ် ပစ္စည်းလဲ ပစ္စည်းလဲ ပစ္စည်းလည်းတတ်တယ် ဒိုးများငယ်သော်လည်း အလုပ်လုပ်တတ်တယ်
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_02_transcription_20260908_171455.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_02_transcription_20260908_171455.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_02.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_02.mp3, file size: 0.44 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[01:49.9 - 01:55.5] ဒိုများငယ်သောလည် အလုပ်လုပ်တတ်တယ် ဘယ်အလုပ်မဆို ဒိုများလုပ်တတ်တယ်။ ဒိုများငယ်သောလည် အလုပ်လုပ်တတ်တယ် ဘယ်အလုပ်မဆို ဒိုများလုပ်တတ်တယ်။ ရေခပ်ပေး ရေခပ်ပေး ရေခပ်ပေးတတ်တယ်။ ဟင်းရွက်ချွေဟင်းရွက်ချွေ ဟင်းရွက်ချွေတတ်တယ်။ ပစ္စည်းလဲပစ္စည်းလဲ ပစ္စည်းလည်းတတ်သည် ဒို့များ ငယ်သော လည်း အလုပ် လုပ်တတ်သည်။ ဒိုများငယ်သောလည် အလုပ်လုပ်တတ်တယ်ဘယ်အလုပ်မဆို ဒိုများလုပ်တတ်တယ် ဒိုများငယ်သောလည် အလုပ်လုပ်တတ်တယ် ဘယ်အလုပ်မဆို ဒိုများလုပ်တတ်တယ်ရေခပ်ပေး ရေခပ်ပေး ရေခပ်ပေးတတ်တယ် ဟင်းရွက်ချွေ ဟင်းရက်ချွေ ဟင်းရွက် ချွေတတ်တယ် ပစ္စည်းလဲ ပစ္စည်းလဲ ပစ္စည်းလည်းတတ်တယ် ဒိုများငယ်သော်လည်း အလုပ်လုပ်တတ်တယ်। ရေခတ်ပေးရေး ခတ်ပေး ရေခတ်ပေးတတ်တယ် ဟင်းရွက်ချွေ ဟင်းရွက်ချွေ ဟင်းရွက်ချွေးတတ်တယ် ပစ္စည်းလဲ ပစ္စည်းလဲ ပစ္စည်းလည်းတတ်တယ် ဒိုးများငယ်သော်လည်း အလုပ်လုပ်တတ်တယ်
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_02_transcription_20260908_171455.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_02_transcription_20260908_171455.txt

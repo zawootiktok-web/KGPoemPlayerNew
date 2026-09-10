@@ -1,0 +1,40 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_19.mp3, file size: 0.26 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 68.5 seconds
+Language: eng
+Timestamped segments:
+[00:06.1 - 00:11.0] Koingang, koingang teiyong boka.
+[00:11.0 - 00:17.1] Me sele sahile sa kone rihula.
+[00:17.1 - 00:23.1] Tulachire sene da dotme wai boma.
+[00:23.1 - 00:29.1] Jenpa ha, maumba ha, chanda mapine kwa.
+[00:29.1 - 00:35.5] Jenminwe okchaya ong twarou koingang.
+[00:35.5 - 00:41.1] Koingang, koingang teiyong boka.
+[00:41.1 - 00:47.2] Me sele sahile sa kone rihula.
+[00:47.2 - 00:53.1] Tulachire sene da dotme wai boma.
+[00:53.1 - 00:59.1] Jenpa ha, maumba ha, chanda mapine kwa.
+[00:59.1 - 01:05.7] Jenminwe okchaya ong twarou koingang.
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_19_transcription_20260908_171913.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_19_transcription_20260908_171913.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_19.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_19.mp3, file size: 0.26 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:06.1 - 00:11.0] Koingang, koingang teiyong boka.
+[00:11.0 - 00:17.1] Me sele sahile sa kone rihula.
+[00:17.1 - 00:23.1] Tulachire sene da dotme wai boma.
+[00:23.1 - 00:29.1] Jenpa ha, maumba ha, chanda mapine kwa.
+[00:29.1 - 00:35.5] Jenminwe okchaya ong twarou koingang.
+[00:35.5 - 00:41.1] Koingang, koingang teiyong boka.
+[00:41.1 - 00:47.2] Me sele sahile sa kone rihula.
+[00:47.2 - 00:53.1] Tulachire sene da dotme wai boma.
+[00:53.1 - 00:59.1] Jenpa ha, maumba ha, chanda mapine kwa.
+[00:59.1 - 01:05.7] Jenminwe okchaya ong twarou koingang.
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_19_transcription_20260908_171913.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_19_transcription_20260908_171913.txt

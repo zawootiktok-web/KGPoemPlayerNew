@@ -1,0 +1,32 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_25.mp3, file size: 0.48 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 126.9 seconds
+Language: mya
+Timestamped segments:
+[00:31.8 - 00:53.5] မျ
+[00:53.5 - 01:04.7] က်စိလေးကမြင်တယ် နားကလေးကကြားတယ်。နဖျာလေးဒါလေကိုရှုရာတဲ့။ ဦးနှောက်လေးကတွေးတာ၊ ပစ္စုပ္ပန်လေးကိုဟားတာ၊ ပြောပြောရှင်ရှင်တချင်းဆိုကြဆုံးခွင်ယောရှင်တဲ့။ မျက်စိလေးကမြင်တယ်、နားကလေးကကြားတယ်、နဖျာလေးဒါလေကိုရှုရာတဲ့။ ဦးနှောက်လေးကတွေးတာ၊ ပစ္စုပ္ပန်လေးကိုဟားတာ၊ ပြောပြောရှင်ရှင်တချင်းဆိုကြဆုံးခွင်ယောရှင်တဲ့။ မျ
+[01:04.7 - 01:20.8] က်စိလေးကမြင်တယ်、နားကလေးကကြားတယ်、နဖျာလေးဒါလေကိုရှုရာတဲ့။ ဦးနှောက်လေးကတွေးတာ、ပစ္စုပ္ပန်လေးကိုဟားတာ、ပြောပြောရှင်ရှင်တချင်းဆိုကြ
+[01:20.8 - 01:39.1] ဆုံးခွင်ယောရှ
+[01:39.1 - 01:59.1] င်တဲ့။ မျ
+[01:59.2 - 02:04.5] က်စိလေးကမြင်တယ်、နားကလေးကကြားတယ်、နဖျာလေးဒါလေကိုရှုရာတဲ့။ ဦးနှောက်လေးကတွေးတာ、ပစ္စုပ္ပန်လေးကိုဟားတာ、ပြောပြောရှင်ရှင်တချင်းဆိုကြဆုံးခွင်ယောရှင်တဲ့。
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_25_transcription_20260908_172037.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_25_transcription_20260908_172037.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_25.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_25.mp3, file size: 0.48 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:31.8 - 00:53.5] မျ
+[00:53.5 - 01:04.7] က်စိလေးကမြင်တယ် နားကလေးကကြားတယ်。နဖျာလေးဒါလေကိုရှုရာတဲ့။ ဦးနှောက်လေးကတွေးတာ၊ ပစ္စုပ္ပန်လေးကိုဟားတာ၊ ပြောပြောရှင်ရှင်တချင်းဆိုကြဆုံးခွင်ယောရှင်တဲ့။ မျက်စိလေးကမြင်တယ်、နားကလေးကကြားတယ်、နဖျာလေးဒါလေကိုရှုရာတဲ့။ ဦးနှောက်လေးကတွေးတာ၊ ပစ္စုပ္ပန်လေးကိုဟားတာ၊ ပြောပြောရှင်ရှင်တချင်းဆိုကြဆုံးခွင်ယောရှင်တဲ့။ မျ
+[01:04.7 - 01:20.8] က်စိလေးကမြင်တယ်、နားကလေးကကြားတယ်、နဖျာလေးဒါလေကိုရှုရာတဲ့။ ဦးနှောက်လေးကတွေးတာ、ပစ္စုပ္ပန်လေးကိုဟားတာ、ပြောပြောရှင်ရှင်တချင်းဆိုကြ
+[01:20.8 - 01:39.1] ဆုံးခွင်ယောရှ
+[01:39.1 - 01:59.1] င်တဲ့။ မျ
+[01:59.2 - 02:04.5] က်စိလေးကမြင်တယ်、နားကလေးကကြားတယ်、နဖျာလေးဒါလေကိုရှုရာတဲ့။ ဦးနှောက်လေးကတွေးတာ、ပစ္စုပ္ပန်လေးကိုဟားတာ、ပြောပြောရှင်ရှင်တချင်းဆိုကြဆုံးခွင်ယောရှင်တဲ့。
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_25_transcription_20260908_172037.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_25_transcription_20260908_172037.txt

@@ -1,0 +1,72 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_06.mp3, file size: 0.34 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 88.5 seconds
+Language: hun
+Timestamped segments:
+[00:07.6 - 00:10.5] Temちゃう nem a pioc shui lien le kou di.
+[00:10.5 - 00:14.5] Temちゃう nem a pioc shui lien le kou di.
+[00:14.5 - 00:19.4] Temちゃう nem a pioc shui lien aia baia le kou di.
+[00:19.4 - 00:22.5] Temちゃう nem a pioc shui lien le kou di.
+[00:22.5 - 00:26.5] Temちゃう nem a pioc shui lien gangou nin.
+[00:26.5 - 00:30.6] Temちゃう nem a pioc shui lien gangou nin.
+[00:30.6 - 00:35.4] Temちゃう nem a pioc shui lien aia baia gangou nin.
+[00:35.4 - 00:38.5] Temちゃう nem a pioc shui lien gangou nin.
+[00:38.5 - 00:42.6] Temちゃう nem a pioc shui lien che gou san.
+[00:42.6 - 00:46.5] Temちゃう nem a pioc shui lien che gou san.
+[00:46.5 - 00:51.6] Temちゃう nem a pioc shui lien aia baia che gou san.
+[00:51.6 - 00:54.9] Temちゃう nem a pioc shui lien che gou san.
+[00:54.9 - 00:58.7] Temちゃう nem a pioc shui lien na gou ce.
+[00:58.7 - 00:59.7] Hat chu!
+[00:59.7 - 01:02.6] Temちゃう nem a pioc shui lien na gou ce.
+[01:02.6 - 01:03.6] Hat chu!
+[01:03.6 - 01:07.4] Temちゃう nem a pioc shui lien aia baia na gou ce.
+[01:07.4 - 01:10.6] Temちゃう nem a pioc shui lien na gou ce.
+[01:10.6 - 01:11.5] Hat chu!
+[01:11.5 - 01:14.6] Temちゃう nem a pioc shui lien ha lou lou.
+[01:14.6 - 01:15.6] Hat chu!
+[01:15.6 - 01:18.7] Temちゃう nem a pioc shui lien ha lou lou.
+[01:18.7 - 01:19.6] Hat chu!
+[01:19.6 - 01:23.6] Temちゃう nem a pioc shui lien aia baia ha lou lou.
+[01:23.6 - 01:26.5] Temちゃう nem a pioc shui lien ha lou lou.
+[01:26.5 - 01:27.6] Hat chu!
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_06_transcription_20260908_171523.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_06_transcription_20260908_171523.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_06.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_06.mp3, file size: 0.34 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:07.6 - 00:10.5] Temちゃう nem a pioc shui lien le kou di.
+[00:10.5 - 00:14.5] Temちゃう nem a pioc shui lien le kou di.
+[00:14.5 - 00:19.4] Temちゃう nem a pioc shui lien aia baia le kou di.
+[00:19.4 - 00:22.5] Temちゃう nem a pioc shui lien le kou di.
+[00:22.5 - 00:26.5] Temちゃう nem a pioc shui lien gangou nin.
+[00:26.5 - 00:30.6] Temちゃう nem a pioc shui lien gangou nin.
+[00:30.6 - 00:35.4] Temちゃう nem a pioc shui lien aia baia gangou nin.
+[00:35.4 - 00:38.5] Temちゃう nem a pioc shui lien gangou nin.
+[00:38.5 - 00:42.6] Temちゃう nem a pioc shui lien che gou san.
+[00:42.6 - 00:46.5] Temちゃう nem a pioc shui lien che gou san.
+[00:46.5 - 00:51.6] Temちゃう nem a pioc shui lien aia baia che gou san.
+[00:51.6 - 00:54.9] Temちゃう nem a pioc shui lien che gou san.
+[00:54.9 - 00:58.7] Temちゃう nem a pioc shui lien na gou ce.
+[00:58.7 - 00:59.7] Hat chu!
+[00:59.7 - 01:02.6] Temちゃう nem a pioc shui lien na gou ce.
+[01:02.6 - 01:03.6] Hat chu!
+[01:03.6 - 01:07.4] Temちゃう nem a pioc shui lien aia baia na gou ce.
+[01:07.4 - 01:10.6] Temちゃう nem a pioc shui lien na gou ce.
+[01:10.6 - 01:11.5] Hat chu!
+[01:11.5 - 01:14.6] Temちゃう nem a pioc shui lien ha lou lou.
+[01:14.6 - 01:15.6] Hat chu!
+[01:15.6 - 01:18.7] Temちゃう nem a pioc shui lien ha lou lou.
+[01:18.7 - 01:19.6] Hat chu!
+[01:19.6 - 01:23.6] Temちゃう nem a pioc shui lien aia baia ha lou lou.
+[01:23.6 - 01:26.5] Temちゃう nem a pioc shui lien ha lou lou.
+[01:26.5 - 01:27.6] Hat chu!
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_06_transcription_20260908_171523.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_06_transcription_20260908_171523.txt

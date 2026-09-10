@@ -1,0 +1,28 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_56.mp3, file size: 0.24 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 63.0 seconds
+Language: mya
+Timestamped segments:
+[00:10.2 - 00:23.0] ကြူစလေးကို ကွေးပြီး ပခုံးလေးလုပ်လိုက်ပါ。ဥကွာကွာနဲ့ လှ
+[00:23.0 - 00:33.6] မ်းရှောင်ရတာ ပျော်စရာပဲကွာ。ခါးစလေးပေါ်လည်း ချောက်ချွတ်ရှေ့ထုပ်လိုက်ပါ。ကံ
+[00:33.6 - 00:57.9] လေးမော်ပြီး ဟာတိုက်လို့သာ အော်စီလိုက်ပါ。ဟာ
+[00:57.9 - 00:57.9] ဟာဟာ ဟာဟာဟာ ဟာဟာဟာ ဟာဟာဟာ。ကြူစလေးကို ကွေးပြီး ပခုံးလေးလုပ်လိုက်ပါ。ဥကွာကွာနဲ့ လှမ်းရှောင်ရတာ ပျော်စရာပဲကွာ。ခါးစလေးပေါ်လည်း ချောက်ချွတ်ရှေ့ထုပ်လိုက်ပါ。ကံလေးမော်ပြီး ဟာတိုက်လို့သာ အော်စီလိုက်ပါ。ဟာဟာဟာ ဟာဟာဟာ ဟာဟာဟာ ဟာဟာဟာ。
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_56_transcription_20260908_172551.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_56_transcription_20260908_172551.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_56.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_56.mp3, file size: 0.24 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:10.2 - 00:23.0] ကြူစလေးကို ကွေးပြီး ပခုံးလေးလုပ်လိုက်ပါ。ဥကွာကွာနဲ့ လှ
+[00:23.0 - 00:33.6] မ်းရှောင်ရတာ ပျော်စရာပဲကွာ。ခါးစလေးပေါ်လည်း ချောက်ချွတ်ရှေ့ထုပ်လိုက်ပါ。ကံ
+[00:33.6 - 00:57.9] လေးမော်ပြီး ဟာတိုက်လို့သာ အော်စီလိုက်ပါ。ဟာ
+[00:57.9 - 00:57.9] ဟာဟာ ဟာဟာဟာ ဟာဟာဟာ ဟာဟာဟာ。ကြူစလေးကို ကွေးပြီး ပခုံးလေးလုပ်လိုက်ပါ。ဥကွာကွာနဲ့ လှမ်းရှောင်ရတာ ပျော်စရာပဲကွာ。ခါးစလေးပေါ်လည်း ချောက်ချွတ်ရှေ့ထုပ်လိုက်ပါ。ကံလေးမော်ပြီး ဟာတိုက်လို့သာ အော်စီလိုက်ပါ。ဟာဟာဟာ ဟာဟာဟာ ဟာဟာဟာ ဟာဟာဟာ。
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_56_transcription_20260908_172551.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_56_transcription_20260908_172551.txt

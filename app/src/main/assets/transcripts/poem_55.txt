@@ -1,0 +1,26 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_55.mp3, file size: 0.52 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 136.1 seconds
+Language: mya
+Timestamped segments:
+[00:10.3 - 00:30.1] ရေရေ ရေသေးရယ် သောက်သုံးရဖို့ရယ် । ရေရေ ရေသေးရယ် ဆေးဖို့
+[00:30.1 - 02:08.0] ကျော
+[02:08.0 - 02:14.0] ဖို့ရယ်။ ရေရေ ရေသေးရယ် ချပ်ဖိုပြုတ်ဖို့ရယ်。 ရေကလေးဟာလေ အဓိကကျလှပြီ။ ရေရေ ရေသေးရယ်သောက်သုံးရဖို့ရယ် 。ရေရေ ရေသေးရယ်ဆေးဖို့ကြော်ဖို့ရယ်။ ရေရေ ရေသေးရယ်ချပ်ဖို ပြုတ် ဖိုးရယ်။ ရေကလေးဟာလည် အဓိက်ကျလှပေ။ ထမင်းအသက်ခုနစ်ရဲ့ ရေအတိတ် ကတော့ တစ်မင်နဲ့ရေကောင်းရေသန့်ရမှသာ ကြံ့မာဝါထူးမှာ။ ရေရေ ရေသေးရယ်သောက်သုံးရဖို့ရယ်။ ရေရေ ရေသေးရယ်ဆေးဖို့ကြော်ဖို့ရယ်။ ရေရေ ရေသေးရယ်ချပ်ဖိုပြုတ်ဖိုရယ်။ ရေကလေးဟာလေ အဓိက ကျလှပါပဲ။ ရေရေ ရေသေးရယ်သောက်သုံးရဖို့ရယ်။ ရေရေ ရေသေးရယ်ဆေးဖို့ကြော်ဖို့ရယ်။ ရေရေ ရေသေးရယ်ချပ်ဖိုပြုတ်ဖိုရယ်။ ရေကလေးဟာလေ အဓိကကျလှပါဘิ။ ထမင်းအသက် ခုနှစ်ရဲ့ရေအတိတ်ကတော့တစ်မန်နဲ့। ရေကောင်းရေသန့်ရမှသာ ကြံ့မာ ဝါထူးမှာ၊
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_55_transcription_20260908_172543.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_55_transcription_20260908_172543.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_55.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_55.mp3, file size: 0.52 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:10.3 - 00:30.1] ရေရေ ရေသေးရယ် သောက်သုံးရဖို့ရယ် । ရေရေ ရေသေးရယ် ဆေးဖို့
+[00:30.1 - 02:08.0] ကျော
+[02:08.0 - 02:14.0] ဖို့ရယ်။ ရေရေ ရေသေးရယ် ချပ်ဖိုပြုတ်ဖို့ရယ်。 ရေကလေးဟာလေ အဓိကကျလှပြီ။ ရေရေ ရေသေးရယ်သောက်သုံးရဖို့ရယ် 。ရေရေ ရေသေးရယ်ဆေးဖို့ကြော်ဖို့ရယ်။ ရေရေ ရေသေးရယ်ချပ်ဖို ပြုတ် ဖိုးရယ်။ ရေကလေးဟာလည် အဓိက်ကျလှပေ။ ထမင်းအသက်ခုနစ်ရဲ့ ရေအတိတ် ကတော့ တစ်မင်နဲ့ရေကောင်းရေသန့်ရမှသာ ကြံ့မာဝါထူးမှာ။ ရေရေ ရေသေးရယ်သောက်သုံးရဖို့ရယ်။ ရေရေ ရေသေးရယ်ဆေးဖို့ကြော်ဖို့ရယ်။ ရေရေ ရေသေးရယ်ချပ်ဖိုပြုတ်ဖိုရယ်။ ရေကလေးဟာလေ အဓိက ကျလှပါပဲ။ ရေရေ ရေသေးရယ်သောက်သုံးရဖို့ရယ်။ ရေရေ ရေသေးရယ်ဆေးဖို့ကြော်ဖို့ရယ်။ ရေရေ ရေသေးရယ်ချပ်ဖိုပြုတ်ဖိုရယ်။ ရေကလေးဟာလေ အဓိကကျလှပါဘิ။ ထမင်းအသက် ခုနှစ်ရဲ့ရေအတိတ်ကတော့တစ်မန်နဲ့। ရေကောင်းရေသန့်ရမှသာ ကြံ့မာ ဝါထူးမှာ၊
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_55_transcription_20260908_172543.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_55_transcription_20260908_172543.txt

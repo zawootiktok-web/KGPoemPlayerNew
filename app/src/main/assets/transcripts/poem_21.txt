@@ -1,0 +1,30 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_21.mp3, file size: 0.24 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 62.1 seconds
+Language: jpn
+Timestamped segments:
+[00:06.5 - 00:17.2] 空空地空地空空，飘回来哟，飘回来哟，飘回来哟。空
+[00:17.2 - 00:27.4] 你阿马雷空空，你阿马雷空空。空空地空地空空，飘回来哟
+[00:27.4 - 00:37.5] 。空空地空地空空，飘回来
+[00:37.5 - 00:47.8] 哟，飘回来哟，飘回来哟。空你阿马雷空空，
+[00:47.8 - 00:56.0] 你阿马雷空空。空空地空地空空，飘回来哟。
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_21_transcription_20260908_171923.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_21_transcription_20260908_171923.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_21.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_21.mp3, file size: 0.24 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:06.5 - 00:17.2] 空空地空地空空，飘回来哟，飘回来哟，飘回来哟。空
+[00:17.2 - 00:27.4] 你阿马雷空空，你阿马雷空空。空空地空地空空，飘回来哟
+[00:27.4 - 00:37.5] 。空空地空地空空，飘回来
+[00:37.5 - 00:47.8] 哟，飘回来哟，飘回来哟。空你阿马雷空空，
+[00:47.8 - 00:56.0] 你阿马雷空空。空空地空地空空，飘回来哟。
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_21_transcription_20260908_171923.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_21_transcription_20260908_171923.txt

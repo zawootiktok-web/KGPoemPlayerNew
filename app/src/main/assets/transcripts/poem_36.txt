@@ -1,0 +1,26 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_36.mp3, file size: 0.23 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 60.1 seconds
+Language: mya
+Timestamped segments:
+[00:10.3 - 00:23.2] လှမ်းရှောင်မယ် ရှေ့ဆုံးရက်ပြည်လည်ကိုလျှောက် ခန္ဓာကိုနောက်ဖက်လှည့် တိ
+[00:23.2 - 00:53.0] မ်လေးကိုလှုပ်ပြမယ် ဟိုဘက်ကြည့် ဒီဘက်ကြည့် ရှေ့ပြန်လည် ပြည်လည်ပြန်လျှောက် ကြီးမင်းနော် ဟာ ဟာ ဟာ ရု
+[00:53.0 - 00:53.1] ပ်နာမ်ကလှုပ်ပြူးပြမယ် လှမ်းရှောင်မယ် ရှေ့ဆုံးရက်ပြည်လည်ကိုလျှောက် ခန္ဓာကိုနောက်ဖက်လှည့် တိမ်လေးကိုလှုပ်ပြမယ် ဟိုဘက်ကြည့် ဒီဘက်ကြည့် ရှေ့ပြန်လည် ပြည်လည်ပြန်လျှောက် ကြီးမင်းနော် ဟာ ဟာ ဟာ ရုပ်နာမ်ကလှုပ်ပြူးပြမယ်
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_36_transcription_20260908_172135.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_36_transcription_20260908_172135.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_36.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_36.mp3, file size: 0.23 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:10.3 - 00:23.2] လှမ်းရှောင်မယ် ရှေ့ဆုံးရက်ပြည်လည်ကိုလျှောက် ခန္ဓာကိုနောက်ဖက်လှည့် တိ
+[00:23.2 - 00:53.0] မ်လေးကိုလှုပ်ပြမယ် ဟိုဘက်ကြည့် ဒီဘက်ကြည့် ရှေ့ပြန်လည် ပြည်လည်ပြန်လျှောက် ကြီးမင်းနော် ဟာ ဟာ ဟာ ရု
+[00:53.0 - 00:53.1] ပ်နာမ်ကလှုပ်ပြူးပြမယ် လှမ်းရှောင်မယ် ရှေ့ဆုံးရက်ပြည်လည်ကိုလျှောက် ခန္ဓာကိုနောက်ဖက်လှည့် တိမ်လေးကိုလှုပ်ပြမယ် ဟိုဘက်ကြည့် ဒီဘက်ကြည့် ရှေ့ပြန်လည် ပြည်လည်ပြန်လျှောက် ကြီးမင်းနော် ဟာ ဟာ ဟာ ရုပ်နာမ်ကလှုပ်ပြူးပြမယ်
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_36_transcription_20260908_172135.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_36_transcription_20260908_172135.txt

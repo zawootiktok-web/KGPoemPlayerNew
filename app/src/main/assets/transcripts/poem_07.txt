@@ -1,0 +1,30 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_07.mp3, file size: 0.41 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 107.8 seconds
+Language: mya
+Timestamped segments:
+[00:01.0 - 00:16.0] နန္နားသီးနဲ့ တူရင်ဟာ သုငယ်ချင်းတွေပါ । တ
+[00:16.0 - 00:29.0] စ်နေသောခါရံဖြစ်ကြ လွင်ရင်းနှီးကာ ဆူးနဲ့ချာ။ န
+[00:29.0 - 00:39.7] န္နားသီးနဲ့ တူရင်ဟာ သုငယ်ချင်းတွေပါတ၊တစ်နေ့တော့ ခါယမ်း ဖြစ်ကြလွင် ရင်းနှီးကဆူး နဲ့
+[00:39.7 - 01:40.7] ခြားန
+[01:40.7 - 01:40.7] န္နားသီးရဲ့မျက်နှာပဲ စူးချက်တွေက ကြွေ သူတို့နဲ့ရန်မဖြစ်နဲ့ ပိန်အားပေါင်းရာကွယ်နန္နားသီးနဲ့ တူရင် ဟာသုငယ်ချင်း တွေပါ တစ်နေ့သောအခါ ရန်ဖြစ်ကြ လှူရင်းနှီး ကစုနှင့်ခြားနန္နားသီးနဲ့ တူရင်ဟာ သုငယ်ချင်းတွေပါ တစ်နေ့သော အခါ ရန်ဖြစ်ကြလှူရင်းနှီးကာ ဆူးနဲ့ ချနန္နားသီးရဲ့ မျက်နှာပယ်စူးချက်တွေက ကျွဲသူတို့နဲ့ ရန် မဖြစ်နဲ့ပင်အားပေါင်းရာကွယ် သူတို့နဲ့ ရန်မဖြစ်နဲ့ ပိမ်အောင်ပေါင်းရာကွယ် သူတို့နဲ့ ရန်မဖြစ်နဲ့ ပိန်အားပေါင်းရာကွယ်。
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_07_transcription_20260908_171602.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_07_transcription_20260908_171602.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_07.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_07.mp3, file size: 0.41 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[00:01.0 - 00:16.0] နန္နားသီးနဲ့ တူရင်ဟာ သုငယ်ချင်းတွေပါ । တ
+[00:16.0 - 00:29.0] စ်နေသောခါရံဖြစ်ကြ လွင်ရင်းနှီးကာ ဆူးနဲ့ချာ။ န
+[00:29.0 - 00:39.7] န္နားသီးနဲ့ တူရင်ဟာ သုငယ်ချင်းတွေပါတ၊တစ်နေ့တော့ ခါယမ်း ဖြစ်ကြလွင် ရင်းနှီးကဆူး နဲ့
+[00:39.7 - 01:40.7] ခြားန
+[01:40.7 - 01:40.7] န္နားသီးရဲ့မျက်နှာပဲ စူးချက်တွေက ကြွေ သူတို့နဲ့ရန်မဖြစ်နဲ့ ပိန်အားပေါင်းရာကွယ်နန္နားသီးနဲ့ တူရင် ဟာသုငယ်ချင်း တွေပါ တစ်နေ့သောအခါ ရန်ဖြစ်ကြ လှူရင်းနှီး ကစုနှင့်ခြားနန္နားသီးနဲ့ တူရင်ဟာ သုငယ်ချင်းတွေပါ တစ်နေ့သော အခါ ရန်ဖြစ်ကြလှူရင်းနှီးကာ ဆူးနဲ့ ချနန္နားသီးရဲ့ မျက်နှာပယ်စူးချက်တွေက ကျွဲသူတို့နဲ့ ရန် မဖြစ်နဲ့ပင်အားပေါင်းရာကွယ် သူတို့နဲ့ ရန်မဖြစ်နဲ့ ပိမ်အောင်ပေါင်းရာကွယ် သူတို့နဲ့ ရန်မဖြစ်နဲ့ ပိန်အားပေါင်းရာကွယ်。
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_07_transcription_20260908_171602.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_07_transcription_20260908_171602.txt

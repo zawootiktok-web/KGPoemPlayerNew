@@ -1,0 +1,22 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_17.mp3, file size: 0.43 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 112.5 seconds
+Language: mya
+Timestamped segments:
+[01:44.6 - 01:52.3] ငါ့ကလေးတွေ ငါ့ကလေးတွေ ရေထဲကငါ့ကလေးတွေ। ဖြူရောင်လေးတွေ ဝါးရောင်လေးတွေ အိုအစုံဘဲဟေ့။ ငါ့ကလေးတွေ ငါ့ကလေးတွေ ရေထဲကငါ့ကလေးတွေ。 ဟိုဘယ်သူလိုက် ဒီဘယ်သူလိုက်ပြောစရာလုံးကောင်းတယ်။ ငါ့ကလေးတွေ ငါ့ကလေးတွေ ရေထဲကငါ့ကလေးတွေ။ ဖြူရောင်လေးတွေဝါးရောင်လေးတွေ အိုအစုံဘဲဟေး။ ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဟိုဘယ်သူလိုက်ဒီဘယ်သူလိုက် ပြောစရာလွန်ကောင်းနဲ့。ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဖြူရောင်လေးတွေဝါးရောင်လေးတွေ အိုးအစုံဘဲဟေ့။ ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဟိုဘယ်သူလိုက် ဒီဘယ်သူလိုက်ပြောစရာလွန်းကောင်းတယ်。ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဖြူရောင်လေးတွေ ဝါးရောင်လေးတွေ အိုအစုံဘဲဟေ့။ ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဟိုဘယ်သူလိုက် ဒီဘယ်သူလိုက်ပြောစရာ လွန်းကောင်းတဲ့。
+Complete transcription result saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_17_transcription_20260908_171843.json
+Plain text transcription saved to: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_17_transcription_20260908_171843.txt
+[2J[H[3Jmanus-speech-to-text /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_17.mp3
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_17.mp3, file size: 0.43 MB
+Transcription may take some time depending on file size and audio length...
+
+Snippet of transcribed content:
+[01:44.6 - 01:52.3] ငါ့ကလေးတွေ ငါ့ကလေးတွေ ရေထဲကငါ့ကလေးတွေ। ဖြူရောင်လေးတွေ ဝါးရောင်လေးတွေ အိုအစုံဘဲဟေ့။ ငါ့ကလေးတွေ ငါ့ကလေးတွေ ရေထဲကငါ့ကလေးတွေ。 ဟိုဘယ်သူလိုက် ဒီဘယ်သူလိုက်ပြောစရာလုံးကောင်းတယ်။ ငါ့ကလေးတွေ ငါ့ကလေးတွေ ရေထဲကငါ့ကလေးတွေ။ ဖြူရောင်လေးတွေဝါးရောင်လေးတွေ အိုအစုံဘဲဟေး။ ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဟိုဘယ်သူလိုက်ဒီဘယ်သူလိုက် ပြောစရာလွန်ကောင်းနဲ့。ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဖြူရောင်လေးတွေဝါးရောင်လေးတွေ အိုးအစုံဘဲဟေ့။ ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဟိုဘယ်သူလိုက် ဒီဘယ်သူလိုက်ပြောစရာလွန်းကောင်းတယ်。ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဖြူရောင်လေးတွေ ဝါးရောင်လေးတွေ အိုအစုံဘဲဟေ့။ ငါ့ကလေးတွေ ငါ့ကလေးတွေရေထဲက ငါ့ကလေးတွေ။ ဟိုဘယ်သူလိုက် ဒီဘယ်သူလိုက်ပြောစရာ လွန်းကောင်းတဲ့。
+
+Completed transcription, JSON saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_17_transcription_20260908_171843.json
+Plain text transcription saved to /home/ubuntu/KGPoemPlayer/app/src/main/res/raw/poem_17_transcription_20260908_171843.txt
